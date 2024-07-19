@@ -1,3 +1,5 @@
+"use client";
+
 import Image from "next/image";
 import React from "react";
 
@@ -12,9 +14,11 @@ const SideBarButtons = ({ imageSrc, content, className }: Props) => {
     <div
       className={`${className} w-[216px] h-[45px] hover:bg-[#F0F0F0] flex items-center justify-start`}
     >
-      <div className="pl-[10px] h-[20px] flex gap-[12px]">
+      <div className="pl-[10px] h-[20px] flex gap-[12px] items-center justify-center">
         <Image src={imageSrc} width={17} height={20} alt={content} />
-        <p>{content}</p>
+        <p className="text-neutral-500 font-semibold">
+          {content}
+        </p>
       </div>
     </div>
   );
