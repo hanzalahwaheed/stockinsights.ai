@@ -5,7 +5,7 @@ import { Inter as FontSans } from "next/font/google";
 import "@/styles/globals.css";
 import Navbar from "@/components/navbar";
 import { ThemeProvider } from "@/components/theme-provider";
-import Topbar from "@/components/topbar";
+import Topbar from "@/components/header";
 
 export const metadata: Metadata = {
   title: "Create Next App",
