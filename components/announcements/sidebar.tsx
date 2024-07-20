@@ -10,9 +10,9 @@ import {
 
 const AnnouncementsSidebar = () => {
   return (
-    <div className="w-[254px] h-full flex flex-col dark:bg-neutral-800 border-r">
+    <div className="w-[254px] h-[calc(100vh-88px)] flex flex-col dark:bg-neutral-800 border-r border-neutral-950">
       <DropdownMenu>
-        <DropdownMenuTrigger className="">Open</DropdownMenuTrigger>
+        <DropdownMenuTrigger className="">Filter</DropdownMenuTrigger>
         <DropdownMenuContent>
           <DropdownMenuLabel>My Account</DropdownMenuLabel>
           <DropdownMenuSeparator />

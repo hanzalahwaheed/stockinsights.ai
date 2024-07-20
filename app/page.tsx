@@ -6,9 +6,9 @@ import AnnouncementsTable from "@/components/announcements/table";
 
 const page = () => {
   return (
-    <div className="ml-[65px] flex h-[calc(100%-88px)] w-[calc(100%-65px)]">
+    <div className="ml-[65px] flex h-full">
       <AnnouncementsSidebar />
-      <div className="flex flex-col w-full">
+      <div className="flex flex-col w-full h-[calc(100vh-158px)] overflow-auto">
         <AnnouncementsTopbar />
         <AnnouncementsTable />
       </div>
