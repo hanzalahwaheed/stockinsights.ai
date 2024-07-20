@@ -1,19 +1,21 @@
 import React from "react";
+import Announcements from "@/components/announcements/announcements";
+import { types, sentiments } from "@/types";
 
-import AnnouncementsSidebar from "@/components/announcements/sidebar";
-import AnnouncementsTopbar from "@/components/announcements/topbar";
-import AnnouncementsTable from "@/components/announcements/table";
+const Home = async () => {
+  const response = await fetch("http://localhost:3000/api");
+  const { data, totalPages } = await response.json();
 
-const page = () => {
   return (
-    <div className="ml-[65px] flex h-full">
-      <AnnouncementsSidebar />
-      <div className="flex flex-col w-full h-[calc(100vh-158px)] overflow-auto">
-        <AnnouncementsTopbar />
-        <AnnouncementsTable />
-      </div>
+    <div className="absolute w-full left-[65px]">
+      <Announcements
+        sentiments={sentiments}
+        types={types}
+        initialData={data}
+        initialTotalPages={totalPages}
+      />
     </div>
   );
 };
 
-export default page;
+export default Home;
