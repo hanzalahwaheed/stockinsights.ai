@@ -1,0 +1,3628 @@
+[
+  {
+    "_id": {
+      "oid": "6699f9fef9844dead3faf881"
+    },
+    "attachment_name": "7a78553e-ba2e-435b-a26d-d2b523206838.pdf",
+    "company_id": "n2yckexb4mrsluaiwpl7",
+    "company_name": "L&T Technology Services Ltd",
+    "created_at": {
+      "date": "2024-07-19T05:30:32.781Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-19T05:22:40.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/7a78553e-ba2e-435b-a26d-d2b523206838.pdf",
+    "sub_type": "Financial Results Publication",
+    "summary": "L&T Technology Services published financial results for the quarter ending June 30, 2024, in newspapers.",
+    "ticker": "LTTS",
+    "type_id": "19",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699f9fdf9844dead3faf85d"
+    },
+    "attachment_name": "a4297d53-9bce-4e20-ae77-9f071475c844.pdf",
+    "company_id": "6r8TaKWapP",
+    "company_name": "Happy Forgings Ltd",
+    "created_at": {
+      "date": "2024-07-19T05:30:36.022Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-19T05:29:44.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/a4297d53-9bce-4e20-ae77-9f071475c844.pdf",
+    "sub_type": "Credit Rating Enhancement",
+    "summary": "Happy Forgings Ltd received a credit rating enhancement from Rs. 210.00 crore to Rs. 485.00 crore by ICRA Limited.",
+    "ticker": "HAPPYFORGE",
+    "type_id": "15",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699f9fcf9844dead3faf83c"
+    },
+    "attachment_name": "83e15429-d1aa-4b99-a421-f4bf8b9e052a.pdf",
+    "company_id": "c1dfd2fc783043e7b0c3",
+    "company_name": "VISTA PHARMACEUTICALS LTD.",
+    "created_at": {
+      "date": "2024-07-19T05:30:34.110Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-19T05:23:17.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/83e15429-d1aa-4b99-a421-f4bf8b9e052a.pdf",
+    "sub_type": "Compliance Certificate Submission",
+    "summary": "VISTA Pharmaceuticals Ltd submits compliance certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended June 30, 2024.",
+    "ticker": "VISTAPH",
+    "type_id": "6",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699f9fcf9844dead3faf830"
+    },
+    "attachment_name": "71813c9e-d892-4e34-b14b-a604864d34fd.pdf",
+    "company_id": "c6fbb340afae4470835d",
+    "company_name": "Zenlabs Ethica Ltd",
+    "created_at": {
+      "date": "2024-07-19T05:30:34.210Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-19T05:24:26.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/71813c9e-d892-4e34-b14b-a604864d34fd.pdf",
+    "sub_type": "Management Resignation",
+    "summary": "Mr. Akshay Saxena resigned as Company Secretary & Compliance Officer of Zenlabs Ethica Ltd to pursue opportunities outside the company.",
+    "ticker": "ZENLABS",
+    "type_id": "6",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699f9faf9844dead3faf7f8"
+    },
+    "attachment_name": "237648ef-3e59-454b-8f23-b377db09ba35.pdf",
+    "company_id": "dml0va419g5hp31z3zjj",
+    "company_name": "Pearl Global Industries Limited",
+    "created_at": {
+      "date": "2024-07-19T05:30:32.465Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-19T05:20:07.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/237648ef-3e59-454b-8f23-b377db09ba35.pdf",
+    "sub_type": "Equity Shares Allotment",
+    "summary": "Pearl Global Industries Limited approved the allotment of 2,045,143 Equity Shares to Qualified Institutional Buyers at an issue price of Rs 731.00 per share, totaling Rs 149,49,99,533.00.",
+    "ticker": "PGIL",
+    "type_id": "15",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699f9faf9844dead3faf7f1"
+    },
+    "attachment_name": "31129110-82fd-4871-9284-4be1c1ef2810.pdf",
+    "company_id": "c6fbb340afae4470835d",
+    "company_name": "Zenlabs Ethica Ltd",
+    "created_at": {
+      "date": "2024-07-19T05:30:32.682Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-19T05:22:05.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/31129110-82fd-4871-9284-4be1c1ef2810.pdf",
+    "sub_type": "Management Change",
+    "summary": "Mr. Akshay Saxena resigned as Company Secretary & Compliance Officer of Zenlabs Ethica Ltd.",
+    "ticker": "ZENLABS",
+    "type_id": "6",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699f9f8f9844dead3faf7bc"
+    },
+    "attachment_name": "361812a8-47c7-47a3-a9bc-88f4744e9a84.pdf",
+    "company_id": "whdmsbsgzmhs3g05l0ek",
+    "company_name": "CAPLIN POINT LABORATORIES LTD.",
+    "created_at": {
+      "date": "2024-07-19T05:30:30.722Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-19T05:15:49.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/361812a8-47c7-47a3-a9bc-88f4744e9a84.pdf",
+    "sub_type": "USFDA Approval",
+    "summary": "Caplin Steriles Limited, a subsidiary of Caplin Point Laboratories Ltd, received USFDA approval for Ephedrine Sulfate injection USP.",
+    "ticker": "CAPLIPOINT",
+    "type_id": "15",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699f9f8f9844dead3faf7b2"
+    },
+    "attachment_name": "78c748a8-dfd9-49bf-98d0-1ace18c7ac1e.pdf",
+    "company_id": "27888817ac344db796eb",
+    "company_name": "KPI Green Energy Ltd",
+    "created_at": {
+      "date": "2024-07-19T05:30:30.758Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-19T05:16:30.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/78c748a8-dfd9-49bf-98d0-1ace18c7ac1e.pdf",
+    "sub_type": "New Order Received",
+    "summary": "KPI Green Energy received a new order for a 100 MW Hybrid Captive Power Project from Aether Industries Limited.",
+    "ticker": "KPIGREEN",
+    "type_id": "8",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699f9f8f9844dead3faf7a3"
+    },
+    "attachment_name": "16285439-6089-43da-9b0e-ebf44512750c.pdf",
+    "company_id": "lder8bzpl3sxoshz4ob1",
+    "company_name": "Shree Pushkar Chemicals & Fertilisers Ltd",
+    "created_at": {
+      "date": "2024-07-19T05:30:30.759Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-19T05:18:45.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/16285439-6089-43da-9b0e-ebf44512750c.pdf",
+    "sub_type": "Fire Incident",
+    "summary": "Fire occurred at Unit I resulting in minimal impact, taking necessary steps to resume operations soon.",
+    "ticker": "SHREEPUSHK",
+    "type_id": "13",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699f680f9844dead3fa9071"
+    },
+    "attachment_name": "c5cb29e4-5204-4eae-85fd-13f807982071.pdf",
+    "company_id": "25d6590e33264b8da61c",
+    "company_name": "TOKYO FINANCE LTD.",
+    "created_at": {
+      "date": "2024-07-19T05:15:34.091Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-19T05:08:13.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/c5cb29e4-5204-4eae-85fd-13f807982071.pdf",
+    "sub_type": "Financial Results Publication",
+    "summary": "Tokyo Finance Ltd. has published the audited financial results for the quarter and year ended June 30, 2024 in newspapers Free Press Journal and Janadesh.",
+    "ticker": "TOKYOFIN",
+    "type_id": "19",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699f67ef9844dead3fa9024"
+    },
+    "attachment_name": "218d1578-8b1d-4254-9a23-46152f04d5d3.pdf",
+    "company_id": "091015d5d62c48d69a53",
+    "company_name": "Variman Global Enterprises Ltd",
+    "created_at": {
+      "date": "2024-07-19T05:15:38.403Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-19T05:15:03.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/218d1578-8b1d-4254-9a23-46152f04d5d3.pdf",
+    "sub_type": "Compliance Certificate Submission",
+    "summary": "Variman Global Enterprises Ltd has submitted a Compliance Certificate under Regulation 74(5) of SEBI (Depositories & Participants) Regulations, 2018 for the Quarter ended 30.06.2024.",
+    "ticker": "VARIMAN",
+    "type_id": "19",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699f67bf9844dead3fa8fc9"
+    },
+    "attachment_name": "42abbb63-de57-4bba-99aa-c36871e1744b.pdf",
+    "company_id": "82q07juwrsy7bhmq30j1",
+    "company_name": "GRAVITA INDIA LTD.",
+    "created_at": {
+      "date": "2024-07-19T05:15:37.176Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-19T05:12:06.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/42abbb63-de57-4bba-99aa-c36871e1744b.pdf",
+    "sub_type": "Closure of Subsidiary",
+    "summary": "GRAVITA INDIA LTD. closed its step-down subsidiary, Recyclers Costa Rica S.A., with no material financial impact.",
+    "ticker": "GRAVITA",
+    "type_id": "2",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699f67af9844dead3fa8f9d"
+    },
+    "attachment_name": "6c44e14c-aa36-4e95-9a0d-05a4957a1bc4.pdf",
+    "company_id": "4f3a448e5662462ab15d",
+    "company_name": "ADVANCE LIFESTYLES LTD.",
+    "created_at": {
+      "date": "2024-07-19T05:15:35.938Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-19T05:11:04.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/6c44e14c-aa36-4e95-9a0d-05a4957a1bc4.pdf",
+    "sub_type": "Cessation",
+    "summary": "Ms. Usha Harsukhbhai Muliya, Independent Director, has resigned from ADVANCE LIFESTYLES LTD.",
+    "ticker": "ADVLIFE",
+    "type_id": "6",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699f679f9844dead3fa8f71"
+    },
+    "attachment_name": "fea42428-3100-4e16-8cde-0bebc141a393.pdf",
+    "company_id": "594d1209c3844d48baa9",
+    "company_name": "SUNRISE INDUSTRIAL TRADERS LTD.",
+    "created_at": {
+      "date": "2024-07-19T05:15:31.034Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-19T05:04:49.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/fea42428-3100-4e16-8cde-0bebc141a393.pdf",
+    "sub_type": "AGM Notice",
+    "summary": "Sunrise Industrial Traders Ltd. has published a notice regarding their 52nd Annual General Meeting to be held on 27th August, 2024, as per Regulation 47 of SEBI (Listing Obligation and Disclosure Requirement) Regulation, 2015.",
+    "ticker": "SUNRINV",
+    "type_id": "19",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699f677f9844dead3fa8f4a"
+    },
+    "attachment_name": "d24762b2-ff26-41a3-8b1e-73fbb5a0aad4.pdf",
+    "company_id": "498ddaa142ff40ac9598",
+    "company_name": "K.P. Energy Ltd",
+    "created_at": {
+      "date": "2024-07-19T05:15:34.072Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-19T05:05:54.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/d24762b2-ff26-41a3-8b1e-73fbb5a0aad4.pdf",
+    "sub_type": "Wind Power Project Commissioning",
+    "summary": "K.P. Energy Ltd commissions 23.1MW wind power project at Sidhpur site in Devbhoomi Dwarka.",
+    "ticker": "KPEL",
+    "type_id": "8",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699f676f9844dead3fa8f13"
+    },
+    "attachment_name": "ed99a966-01b2-4b19-b8e1-b115092b1668.pdf",
+    "company_id": "d373930611344bf3ba0f",
+    "company_name": "RUCHIRA PAPERS LTD.",
+    "created_at": {
+      "date": "2024-07-19T05:15:31.031Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-19T05:04:15.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/ed99a966-01b2-4b19-b8e1-b115092b1668.pdf",
+    "sub_type": "Publication Notice",
+    "summary": "RUCHIRA PAPERS LTD. published a notice to transfer equity shares and unpaid/unclaimed dividend to IEPF in Financial Express and Jansatta newspapers on 19th July 2024.",
+    "ticker": "RUCHIRA",
+    "type_id": "23",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699f676f9844dead3fa8f0b"
+    },
+    "attachment_name": "ca6a857d-8a8a-4602-9158-d3855c386ea9.pdf",
+    "company_id": "fnCjOOQdx0D5eUDNoJsKE",
+    "company_name": "ANDHRA CEMENTS LTD.",
+    "created_at": {
+      "date": "2024-07-19T05:15:30.997Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-19T05:03:37.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/ca6a857d-8a8a-4602-9158-d3855c386ea9.pdf",
+    "sub_type": "Financial Results Publication",
+    "summary": "ANDHRA CEMENTS LTD. submitted newspaper publications regarding un-audited financial results for the quarter ended 30th June, 2024.",
+    "ticker": "ACL",
+    "type_id": "19",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699f2f6f9844dead3fa2792"
+    },
+    "attachment_name": "FROG_19072024102349_Advertisement_Disclosure_Final.pdf",
+    "company_id": "ca4b8ca6e2404730a7c6",
+    "company_name": "Frog Cellsat Limited",
+    "created_at": {
+      "date": "2024-07-19T05:00:30.879Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-19T04:53:48.000Z"
+    },
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/FROG_19072024102349_Advertisement_Disclosure_Final.pdf",
+    "ticker": "FROG",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699f2f5f9844dead3fa2776"
+    },
+    "attachment_name": "e75ce413-2a51-4348-8d0a-7448ff004ac4.pdf",
+    "company_id": "27057dd203d643ebb7b5",
+    "company_name": "Raj Rayon Industries Limited-",
+    "created_at": {
+      "date": "2024-07-19T05:00:35.618Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-19T05:00:14.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/e75ce413-2a51-4348-8d0a-7448ff004ac4.pdf",
+    "sub_type": "Certificate Submission",
+    "summary": "Raj Rayon Industries Limited submitted the Certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended June 30, 2024.",
+    "ticker": "RAJRILTD",
+    "type_id": "26",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699f2f4f9844dead3fa275e"
+    },
+    "attachment_name": "4ba47234-e225-4e27-923c-578c248c0477.pdf",
+    "company_id": "02tdck99luewfvd5a8ld",
+    "company_name": "AJMERA REALTY & INFRA INDIA LTD.",
+    "created_at": {
+      "date": "2024-07-19T05:00:33.809Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-19T04:59:28.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/4ba47234-e225-4e27-923c-578c248c0477.pdf",
+    "sub_type": "Approval of Scheme of Arrangement",
+    "summary": "Approval of Scheme of Arrangement between Ajmera Realty & Infra India Limited and Radha Raman Dev Ventures Private Limited by NCLT Mumbai",
+    "ticker": "AJMERA",
+    "type_id": "3",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699f2f4f9844dead3fa2754"
+    },
+    "attachment_name": "d0d7b861-4a74-4777-bbd3-45638af258ee.pdf",
+    "company_id": "bce82697a77c47b98216",
+    "company_name": "G.S.AUTO INTERNATIONAL LTD.",
+    "created_at": {
+      "date": "2024-07-19T05:00:33.809Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-19T04:57:07.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/d0d7b861-4a74-4777-bbd3-45638af258ee.pdf",
+    "sub_type": "",
+    "summary": "G.S. AUTO INTERNATIONAL LTD. reported that they do not need to disclose the quarterly compliance report on corporate governance for the quarter ended June 30, 2024, due to their net worth and equity share capital being below specified threshold limits.",
+    "ticker": "GSAUTO",
+    "type_id": "26",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699f2f3f9844dead3fa273c"
+    },
+    "attachment_name": "666fae34-5b5a-41aa-b45e-41094ff641cf.pdf",
+    "company_id": "282ba8eb04c44bab803d",
+    "company_name": "Archean Chemical Industries Ltd",
+    "created_at": {
+      "date": "2024-07-19T05:00:33.774Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-19T04:46:09.000Z"
+    },
+    "sentiment": "negative",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/666fae34-5b5a-41aa-b45e-41094ff641cf.pdf",
+    "sub_type": "Penalty Imposed",
+    "summary": "Archean Chemical Industries Ltd penalized Rs. 6,37,408 for GST issues.",
+    "ticker": "ACI",
+    "type_id": "9",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699ef6ff9844dead3f9be93"
+    },
+    "attachment_name": "050fb4cc-af77-48ed-b7dd-2b195a1ac274.pdf",
+    "company_id": "ea081868470b4f5caea8",
+    "company_name": "KUMBHAT FINANCIAL SERVICES LTD.",
+    "created_at": {
+      "date": "2024-07-19T04:45:32.544Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-19T04:42:19.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/050fb4cc-af77-48ed-b7dd-2b195a1ac274.pdf",
+    "sub_type": "Change in Auditor",
+    "summary": "KUMBHAT FINANCIAL SERVICES LTD. - 526869 announces the change in auditor to M/S PKF Sridhar and Santhanam LLP for a period of five years starting from the conclusion of the 31st AGM in 2024 to the conclusion of the 36th AGM in 2029.",
+    "ticker": "KUMPFIN",
+    "type_id": "6",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699ef6ff9844dead3f9be8d"
+    },
+    "attachment_name": "6732aadb-9f90-411b-9ad3-7331bfbde0df.pdf",
+    "company_id": "RexGl2KUkk",
+    "company_name": "AIK Pipes and Polymers Ltd",
+    "created_at": {
+      "date": "2024-07-19T04:45:32.539Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-19T04:41:50.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/6732aadb-9f90-411b-9ad3-7331bfbde0df.pdf",
+    "sub_type": "Meeting Intimation",
+    "summary": "AIK Pipes and Polymers Ltd will be interacting with analysts and investors on July 21, 2024, at 11:00 a.m. via virtual mode.",
+    "ticker": "AIKPIPES",
+    "type_id": "18",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699ef6ef9844dead3f9be87"
+    },
+    "attachment_name": "ecc2141c-bb09-423e-919b-83415bc612d2.pdf",
+    "company_id": "b423475e37c2475585f2",
+    "company_name": "GRAND FOUNDRY LTD.",
+    "created_at": {
+      "date": "2024-07-19T04:45:30.559Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-19T04:40:55.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/ecc2141c-bb09-423e-919b-83415bc612d2.pdf",
+    "sub_type": "Notice for Annual General Meeting",
+    "summary": "GRAND FOUNDRY LTD. has published a notice in newspapers regarding its 32nd Annual General Meeting to be held on August 8, 2024.",
+    "ticker": "GFSTEELS",
+    "type_id": "19",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699ef6cf9844dead3f9be45"
+    },
+    "attachment_name": "5f967151-6f0f-440c-b512-51c9431b49b2.pdf",
+    "company_id": "6lhdjkce8qlmyxq7aj1d",
+    "company_name": "Bajaj Consumer Care Ltd",
+    "created_at": {
+      "date": "2024-07-19T04:45:30.548Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-19T04:38:40.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/5f967151-6f0f-440c-b512-51c9431b49b2.pdf",
+    "sub_type": "Certificate Submission",
+    "summary": "Bajaj Consumer Care Ltd submitted a certificate for the quarter ended June 30, 2024 per Regulation 74(5) of the SEBI Rules.",
+    "ticker": "BAJAJCON",
+    "type_id": "19",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699ef6cf9844dead3f9be44"
+    },
+    "attachment_name": "b1b3101e-3751-496b-9f14-1d8a0083da92.pdf",
+    "company_id": "qsfyuyladg2pnynj58sc",
+    "company_name": "ICICI BANK LTD.",
+    "created_at": {
+      "date": "2024-07-19T04:45:30.514Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-19T04:37:07.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/b1b3101e-3751-496b-9f14-1d8a0083da92.pdf",
+    "sub_type": "Equity Allotment",
+    "summary": "ICICI Bank allotted 200,441 equity shares under the Employee Stock Option Scheme-2000.",
+    "ticker": "ICICIBANK",
+    "type_id": "17",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699e864f9844dead3f8eb2b"
+    },
+    "attachment_name": "f14fd8e9-11ba-4a93-ab9d-aef83c3a95a1.pdf",
+    "company_id": "aedxxgweg9fq5k4d8aec",
+    "company_name": "KPIT Technologies Ltd",
+    "created_at": {
+      "date": "2024-07-19T04:15:31.058Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-19T04:08:03.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/f14fd8e9-11ba-4a93-ab9d-aef83c3a95a1.pdf",
+    "sub_type": "Investor Conference Call",
+    "summary": "KPIT Technologies to announce Q1 FY2025 results followed by a Post Earnings Conference Call on July 24, 2024 at 17:30 Hrs (IST). Details enclosed and will be on the companys website.",
+    "ticker": "KPITTECH",
+    "type_id": "26",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699da55f9844dead3f76dbc"
+    },
+    "attachment_name": "9a5acae6-c6ea-4197-a444-4572e906a2b3.pdf",
+    "company_id": "jri4aungkts0qw12yohi",
+    "company_name": "Tejas Networks Ltd",
+    "created_at": {
+      "date": "2024-07-19T03:15:30.935Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-19T03:10:17.000Z"
+    },
+    "sentiment": "positive",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/9a5acae6-c6ea-4197-a444-4572e906a2b3.pdf",
+    "sub_type": "Awards Announcement",
+    "summary": "Tejas Networks Ltd. has won the Pandit Deendayal Upadhyaya Telecom Excellence Award from the Government of India.",
+    "ticker": "TEJASNET",
+    "type_id": "18",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699d6d0f9844dead3f71c0f"
+    },
+    "attachment_name": "81FF3571-0E1F-4596-B2BC-41BC61D07A0A-082731.pdf",
+    "company_id": "s3v4wqg0luyst6mbqrwt",
+    "company_name": "KARUR VYSYA BANK LTD.",
+    "created_at": {
+      "date": "2024-07-19T03:00:31.103Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-19T02:57:37.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/81FF3571-0E1F-4596-B2BC-41BC61D07A0A-082731.pdf",
+    "sub_type": "Audio Recording",
+    "summary": "KARUR VYSYA BANK LTD. provided an audio recording of the conference call regarding the unaudited financial results for the quarter ended June 30, 2024.",
+    "ticker": "KARURVYSYA",
+    "type_id": "18",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66999405f9844dead3eff9a9"
+    },
+    "attachment_name": "685a2cae-d426-4957-bf3f-c4b48839d6d6.pdf",
+    "company_id": "f31056e7692442bca745",
+    "company_name": "COMPETENT AUTOMOBILES CO.LTD.",
+    "created_at": {
+      "date": "2024-07-18T22:15:31.084Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T22:12:56.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/685a2cae-d426-4957-bf3f-c4b48839d6d6.pdf",
+    "sub_type": "Compliance Certificate Submission",
+    "summary": "Competent Automobiles Co.Ltd. submitted a compliance certificate for the appointment of Skyline Financial Services Pvt. Ltd. as the Share transfer agent under Reg. 74(5) of SEBI (DP) Regulations, 2018.",
+    "ticker": "COMPEAU",
+    "type_id": "23",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66997468f9844dead3ec9d97"
+    },
+    "attachment_name": "58b6eac9-48c5-4cb1-8239-6648298d36f3.pdf",
+    "company_id": "wwa2ew4rmkk9amv4ig0v",
+    "company_name": "BRITANNIA INDUSTRIES LTD.",
+    "created_at": {
+      "date": "2024-07-18T20:00:30.634Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T20:00:25.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/58b6eac9-48c5-4cb1-8239-6648298d36f3.pdf",
+    "sub_type": "Annual Report Announcement",
+    "summary": "BRITANNIA INDUSTRIES LTD. 105th AGM on August 12, 2024, Annual Report for FY 2023-24 released through Video Conferencing, Financial Performance Growth Data",
+    "ticker": "BRITANNIA",
+    "type_id": "26",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "669969d6f9844dead3eb7df0"
+    },
+    "attachment_name": "E2E_19072024003353_InvestorPrsentationJuly2024.pdf",
+    "company_id": "0bb2543f2bc24c3e862d",
+    "company_name": "E2E Networks Limited",
+    "created_at": {
+      "date": "2024-07-18T19:15:32.773Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T19:03:53.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/E2E_19072024003353_InvestorPrsentationJuly2024.pdf",
+    "sub_type": "Investor Presentation",
+    "summary": "E2E Networks Limited provided Investor Presentation regarding their AI-focused hyperscale cloud platform on their website.",
+    "ticker": "E2E",
+    "type_id": "18",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66996651f9844dead3eb18b0"
+    },
+    "attachment_name": "DENEERS_19072024002240_NonApplicabilityofCGReportJune2024.pdf",
+    "company_id": "wr9awLAxHcpe1vk3JjqB2",
+    "company_name": "De Neers Tools Limited",
+    "created_at": {
+      "date": "2024-07-18T19:00:31.604Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T18:52:40.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/DENEERS_19072024002240_NonApplicabilityofCGReportJune2024.pdf",
+    "sub_type": "Compliance Update",
+    "summary": "De Neers Tools Limited is not required to submit a Corporate Governance report for the quarter ended June 2024 as per SEBI regulations for SME Exchange listings.",
+    "ticker": "DENEERS",
+    "type_id": "26",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66996651f9844dead3eb18ab"
+    },
+    "attachment_name": "0b7194c1-d72e-4211-b342-200b081b7b39.pdf",
+    "company_id": "2767a64a2b83414581fc",
+    "company_name": "Tejnaksh Healthcare Ltd",
+    "created_at": {
+      "date": "2024-07-18T19:00:30.740Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T18:56:58.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/0b7194c1-d72e-4211-b342-200b081b7b39.pdf",
+    "sub_type": "Certificate Submission",
+    "summary": "Tejnaksh Healthcare Ltd submitted a certificate under Regulation 74 (5) of SEBI (DP) Regulations, 2018 for the Quarter ended June 30, 2024.",
+    "ticker": "TEJNAKSH",
+    "type_id": "26",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "669962cef9844dead3eab347"
+    },
+    "attachment_name": "a90e5520-48ca-42bf-a0de-44c1fe586776.pdf",
+    "company_id": "3934a57c2a7e41048c73",
+    "company_name": "Sharanam Infraproject and Trading Ltd",
+    "created_at": {
+      "date": "2024-07-18T18:45:31.732Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T18:40:54.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/a90e5520-48ca-42bf-a0de-44c1fe586776.pdf",
+    "sub_type": "Management Changes",
+    "summary": "Management changes at Sharanam Infraproject and Trading Ltd with three key resignations.",
+    "ticker": "SIPTL",
+    "type_id": "6",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "669962cef9844dead3eab336"
+    },
+    "attachment_name": "943287f8-e8d7-4a38-bfc9-38de0ad8cff7.pdf",
+    "company_id": "3934a57c2a7e41048c73",
+    "company_name": "Sharanam Infraproject and Trading Ltd",
+    "created_at": {
+      "date": "2024-07-18T18:45:31.699Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T18:36:43.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/943287f8-e8d7-4a38-bfc9-38de0ad8cff7.pdf",
+    "sub_type": "Resignations",
+    "summary": "Resignation of Managing Director, Non-Executive Director, and CFO from Sharanam Infraproject and Trading Ltd.",
+    "ticker": "SIPTL",
+    "type_id": "6",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66995f49f9844dead3ea4f67"
+    },
+    "attachment_name": "DENEERS_18072024235932_CoverLetterandCertificate.pdf",
+    "company_id": "wr9awLAxHcpe1vk3JjqB2",
+    "company_name": "De Neers Tools Limited",
+    "created_at": {
+      "date": "2024-07-18T18:30:31.645Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T18:29:32.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/DENEERS_18072024235932_CoverLetterandCertificate.pdf",
+    "sub_type": "Certificate Submission",
+    "summary": "De Neers Tools Ltd provided a certificate under SEBI Regulations for the Quarter ended 30.06.2024 regarding dematerialized securities.",
+    "ticker": "DENEERS",
+    "type_id": "15",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66995bc7f9844dead3e9e6b4"
+    },
+    "attachment_name": "803995d4-0f47-47b4-b0f0-c41b856e20ef.pdf",
+    "company_id": "f9541f9c0e4b4318b336",
+    "company_name": "Palash Securities Ltd",
+    "created_at": {
+      "date": "2024-07-18T18:15:33.990Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T18:15:04.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/803995d4-0f47-47b4-b0f0-c41b856e20ef.pdf",
+    "sub_type": "Newspaper Advertisement",
+    "summary": "Palash Securities Ltd published a newspaper advertisement regarding their 10th Annual General Meeting.",
+    "ticker": "PALASHSECU",
+    "type_id": "18",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66995bc5f9844dead3e9e670"
+    },
+    "attachment_name": "DENEERS_18072024234223_CoverLetterandCertificate.pdf",
+    "company_id": "wr9awLAxHcpe1vk3JjqB2",
+    "company_name": "De Neers Tools Limited",
+    "created_at": {
+      "date": "2024-07-18T18:15:32.241Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T18:12:23.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/DENEERS_18072024234223_CoverLetterandCertificate.pdf",
+    "sub_type": "Investor Complaints",
+    "summary": "De Neers Tools Limited reported Investor Queries/ complaints for quarter ended 30 June, 2024",
+    "ticker": "DENEERS",
+    "type_id": "24",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "669954bff9844dead3e92973"
+    },
+    "attachment_name": "edce491e-482e-4207-bfb4-00c5bced781a.pdf",
+    "company_id": "b09f3ea5b8de4631a9d1",
+    "company_name": "PEOPLES INVESTMENTS LTD.",
+    "created_at": {
+      "date": "2024-07-18T17:45:33.172Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T17:43:56.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/edce491e-482e-4207-bfb4-00c5bced781a.pdf",
+    "sub_type": "Certificate Compliance",
+    "summary": "PEOPLES INVESTMENTS LTD. received a Compliance Certificate under Reg. 74 (5) of SEBI (DP) Regulations, 2018 for the quarter ended June 30, 2024.",
+    "ticker": "PEOPLIN",
+    "type_id": "15",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "669954bff9844dead3e92968"
+    },
+    "attachment_name": "d56b3bb5-2937-47b9-9dc3-637fdada8f8b.pdf",
+    "company_id": "e5910cf0a9e24036bb5b",
+    "company_name": "Sasken Technologies Ltd",
+    "created_at": {
+      "date": "2024-07-18T17:45:33.139Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T17:37:12.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/d56b3bb5-2937-47b9-9dc3-637fdada8f8b.pdf",
+    "sub_type": "Director Change",
+    "summary": "Mr. Bharat V Patel ceased to be an Independent Director of Sasken Technologies Ltd after completing his second term of 5 years.",
+    "ticker": "SASKEN",
+    "type_id": "6",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699513bf9844dead3e8cc31"
+    },
+    "attachment_name": "1206934a-599b-47fb-a343-ed53e5023a8e.pdf",
+    "company_id": "ld7ksxcl5pnxohrjem3n",
+    "company_name": "GODREJ CONSUMER PRODUCTS LTD.",
+    "created_at": {
+      "date": "2024-07-18T17:30:34.302Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T17:29:43.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/1206934a-599b-47fb-a343-ed53e5023a8e.pdf",
+    "sub_type": "Family Settlement Agreement Update",
+    "summary": "Godrej Consumer Products Ltd. received a letter regarding completion of realignment under Family Settlement Agreement.",
+    "ticker": "GODREJCP",
+    "type_id": "6",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66994db8f9844dead3e8611e"
+    },
+    "attachment_name": "a2eb1612-c892-4725-bcb1-ba65d15919d4.pdf",
+    "company_id": "42c2c4976f7e47ccba38",
+    "company_name": "ASTEC LIFESCIENCES LIMITED",
+    "created_at": {
+      "date": "2024-07-18T17:15:34.287Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T17:12:47.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/a2eb1612-c892-4725-bcb1-ba65d15919d4.pdf",
+    "sub_type": "Family Settlement Agreement",
+    "summary": "ASTEC Lifesciences Limited informed that the realignment pursuant to the Family Settlement Agreement dated April 30, 2024, has been completed on July 18, 2024.",
+    "ticker": "ASTEC",
+    "type_id": "6",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66994db8f9844dead3e8610d"
+    },
+    "attachment_name": "9487b0cf-0846-4d97-981f-01ee38e3fbbc.pdf",
+    "company_id": "hgavma7bc96a1auwv3ut",
+    "company_name": "Godrej Agrovet Ltd",
+    "created_at": {
+      "date": "2024-07-18T17:15:34.286Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T17:12:40.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/9487b0cf-0846-4d97-981f-01ee38e3fbbc.pdf",
+    "sub_type": "Family Settlement Update",
+    "summary": "Godrej Agrovet Ltd informed about the completion of the Family Settlement Agreement realignment by the promoter group and promoters.",
+    "ticker": "GODREJAGRO",
+    "type_id": "25",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66994db8f9844dead3e860fe"
+    },
+    "attachment_name": "dc39692e-0707-40ea-9f75-454b97f1973e.pdf",
+    "company_id": "f16a88e5d248410698c3",
+    "company_name": "BMW Industries Ltd",
+    "created_at": {
+      "date": "2024-07-18T17:15:34.254Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T17:03:32.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/dc39692e-0707-40ea-9f75-454b97f1973e.pdf",
+    "sub_type": "Earnings Call",
+    "summary": "BMW Industries Ltd conducted an Earnings Call with Arihant Capital Markets Ltd to discuss financial results for the quarter ended June 30, 2024, with the audio recording available on the companys website.",
+    "ticker": "BMW",
+    "type_id": "18",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66994a33f9844dead3e80e67"
+    },
+    "attachment_name": "f494b4bd-28c6-451d-b59d-3d27d7074adb.pdf",
+    "company_id": "nxym6lv7abzb1zcsnqks",
+    "company_name": "Godrej Properties Ltd",
+    "created_at": {
+      "date": "2024-07-18T17:00:33.471Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T16:57:25.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/f494b4bd-28c6-451d-b59d-3d27d7074adb.pdf",
+    "sub_type": "Update on Family Settlement Agreement",
+    "summary": "Godrej Properties Ltd informs completion of realignment under Family Settlement Agreement dated April 30, 2024 by key promoter members.",
+    "ticker": "GODREJPROP",
+    "type_id": "6",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66994a31f9844dead3e80e4a"
+    },
+    "attachment_name": "04dca592-aca1-4856-b68d-e90cc6f16403.pdf",
+    "company_id": "VxzOQJMUNl",
+    "company_name": "Samhi Hotels Ltd",
+    "created_at": {
+      "date": "2024-07-18T17:00:31.233Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T16:56:58.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/04dca592-aca1-4856-b68d-e90cc6f16403.pdf",
+    "sub_type": "Management Agreement with Marriott Hotels India",
+    "summary": "Samhi Hotels Ltd. signed management agreements with Marriott Hotels India for assets in 5 cities, transitioning from franchise model to managed by Marriott.",
+    "ticker": "SAMHI",
+    "type_id": "1",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66994a31f9844dead3e80e3b"
+    },
+    "attachment_name": "DRONE_18072024222155_OutcomeAGMsigned.pdf",
+    "company_id": "29HfnQW7Da",
+    "company_name": "Drone Destination Limited",
+    "created_at": {
+      "date": "2024-07-18T17:00:31.896Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T16:51:55.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/DRONE_18072024222155_OutcomeAGMsigned.pdf",
+    "sub_type": "Board Meeting Outcome",
+    "summary": "Drone Destination Limited held a Board meeting on July 18, 2024 to discuss AGM details and re-appointment of internal auditor.",
+    "ticker": "DRONE",
+    "type_id": "26",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66994a31f9844dead3e80e2f"
+    },
+    "attachment_name": "5a8d26fa-2d0b-4309-b775-7664b3e50f3d.pdf",
+    "company_id": "e4d617c6bb454dc6ba96",
+    "company_name": "Hampton Sky Realty Ltd",
+    "created_at": {
+      "date": "2024-07-18T17:00:31.233Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T16:53:38.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/5a8d26fa-2d0b-4309-b775-7664b3e50f3d.pdf",
+    "sub_type": "Investment Approval",
+    "summary": "Hampton Sky Realty Limited approved incorporation of two wholly owned subsidiaries and investment in a joint venture company.",
+    "ticker": "HAMPTON",
+    "type_id": "15",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66994a31f9844dead3e80e26"
+    },
+    "attachment_name": "62a5798e-3722-4602-a4d8-fef87b46aa78.pdf",
+    "company_id": "532f2fb5c2f645348bf7",
+    "company_name": "GODREJ INDUSTRIES LTD.",
+    "created_at": {
+      "date": "2024-07-18T17:00:31.200Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T16:49:00.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/62a5798e-3722-4602-a4d8-fef87b46aa78.pdf",
+    "sub_type": "Family Settlement Agreement Update",
+    "summary": "Godrej Industries Ltd. has completed the realignment pursuant to the Family Settlement Agreement on July 18, 2024.",
+    "ticker": "GODREJIND",
+    "type_id": "26",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "669946aef9844dead3e7a910"
+    },
+    "attachment_name": "b26921de-6da5-47d7-8cd7-4a4e3e7647d5.pdf",
+    "company_id": "z6jr6fcbadkr590sfoh5",
+    "company_name": "MASTEK LTD.",
+    "created_at": {
+      "date": "2024-07-18T16:45:31.442Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T16:31:04.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/b26921de-6da5-47d7-8cd7-4a4e3e7647d5.pdf",
+    "sub_type": "Earnings Conference Call",
+    "summary": "Mastek Ltd. had an earnings conference call with investors and analysts regarding the unaudited financial results for the quarter ended June 30, 2024.",
+    "ticker": "MASTEK",
+    "type_id": "25",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "669946adf9844dead3e7a8e4"
+    },
+    "attachment_name": "5cc706e1-3bf0-403a-97a6-9917f61ac400.pdf",
+    "company_id": "6dioadkx3uia9aru4d7n",
+    "company_name": "Mahindra Logistics Ltd",
+    "created_at": {
+      "date": "2024-07-18T16:45:31.476Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T16:40:23.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/5cc706e1-3bf0-403a-97a6-9917f61ac400.pdf",
+    "sub_type": "Penalty Imposed",
+    "summary": "Mahindra Logistics Ltd received a penalty of Rs. 1,61,268 for GST assessment, hopeful of a favorable outcome.",
+    "ticker": "MAHLOG",
+    "type_id": "9",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66994329f9844dead3e73c49"
+    },
+    "attachment_name": "ONEPOINT_18072024214710_ONEPOINT.pdf",
+    "company_id": "e6280f5210bf4e359887",
+    "company_name": "One Point One Solutions Limited",
+    "created_at": {
+      "date": "2024-07-18T16:30:31.009Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T16:17:10.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/ONEPOINT_18072024214710_ONEPOINT.pdf",
+    "sub_type": "EOGM Proceedings",
+    "summary": "One Point One Solutions Limited informed about the Proceedings of Extraordinary General Meeting held on July 18, 2024.",
+    "ticker": "ONEPOINT",
+    "type_id": "6",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66994329f9844dead3e73c2d"
+    },
+    "attachment_name": "38a4a6ba-65d7-4f35-a64c-228460a1fcc5.pdf",
+    "company_id": "cb2e8eea5d174f7b9ac0",
+    "company_name": "VISAKA INDUSTRIES LTD.",
+    "created_at": {
+      "date": "2024-07-18T16:30:31.082Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T16:24:51.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/38a4a6ba-65d7-4f35-a64c-228460a1fcc5.pdf",
+    "sub_type": "Certificate Submission",
+    "summary": "VISAKA INDUSTRIES LTD. submitted a compliance certificate under Regulation 74(5) of SEBI (DP) Regulations, 2018 for the quarter ended June 30, 2024.",
+    "ticker": "VISAKAIND",
+    "type_id": "26",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66994328f9844dead3e73c22"
+    },
+    "attachment_name": "9e6865de-e2f9-49ab-afe8-649d9d6f6a4e.pdf",
+    "company_id": "zo3ottoa1oj1uase5d82",
+    "company_name": "Vodafone Idea Ltd",
+    "created_at": {
+      "date": "2024-07-18T16:30:31.051Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T16:18:02.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/9e6865de-e2f9-49ab-afe8-649d9d6f6a4e.pdf",
+    "sub_type": "Allotment Approval",
+    "summary": "Vodafone Idea approved second tranche of allotment of 41,52,02,701 Equity Shares to Nokia Solutions and Networks India Private Limited and Ericsson India Private Limited.",
+    "ticker": "IDEA",
+    "type_id": "23",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66993fa9f9844dead3e6d401"
+    },
+    "attachment_name": "d76a42bc-3af7-4087-a52f-eb11f76b4c56.pdf",
+    "company_id": "itmbb7qzk7mt70nl2vfl",
+    "company_name": "Sheela Foam Ltd",
+    "created_at": {
+      "date": "2024-07-18T16:15:34.969Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T16:14:49.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/d76a42bc-3af7-4087-a52f-eb11f76b4c56.pdf",
+    "sub_type": "Certificate Compliance",
+    "summary": "Sheela Foam Ltd shared a certificate for Regulation 74(5) compliance for the quarter ended June 30, 2024.",
+    "ticker": "SFL",
+    "type_id": "19",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66993fa9f9844dead3e6d3db"
+    },
+    "attachment_name": "cef9ef5b-7903-48f6-b9b9-538225ec24a6.pdf",
+    "company_id": "fkdwhn0rx03rr77c52gm",
+    "company_name": "MOTILAL OSWAL FINANCIAL SERVICES LTD.",
+    "created_at": {
+      "date": "2024-07-18T16:15:34.470Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T16:13:45.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/cef9ef5b-7903-48f6-b9b9-538225ec24a6.pdf",
+    "sub_type": "Earnings Conference Call",
+    "summary": "Motilal Oswal Financial Services Ltd. will hold an Earnings Conference Call with Investors/Analysts on July 26, 2024 to discuss Q1 FY 2024-25 financial performance.",
+    "ticker": "MOTILALOFS",
+    "type_id": "18",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66993fa7f9844dead3e6d3a9"
+    },
+    "attachment_name": "1c838047-a7cf-4760-b931-8325cc0eb4bf.pdf",
+    "company_id": "519b349614154b8bb7ee",
+    "company_name": "LT FOODS LTD.",
+    "created_at": {
+      "date": "2024-07-18T16:15:32.512Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T16:07:08.000Z"
+    },
+    "sentiment": "negative",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/1c838047-a7cf-4760-b931-8325cc0eb4bf.pdf",
+    "sub_type": "Court Summon Received",
+    "summary": "LT Foods Ltd. received a summon from the Honble Court of ADM, Sonipat, Haryana regarding a matter with Food Safety and Standard Authority of India Officer.",
+    "ticker": "LTFOODS",
+    "type_id": "9",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66993fa6f9844dead3e6d38d"
+    },
+    "attachment_name": "44afdf11-a12f-4f81-a622-70356ed36e56.pdf",
+    "company_id": "tvktaxs710bmv1si84rj",
+    "company_name": "HAVELLS INDIA LTD.",
+    "created_at": {
+      "date": "2024-07-18T16:15:32.512Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T16:07:39.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/44afdf11-a12f-4f81-a622-70356ed36e56.pdf",
+    "sub_type": "Earnings Call Outcome",
+    "summary": "HAVELLS INDIA LTD. had an Earnings Call to discuss Financial Results for the first quarter ended 30th June, 2024, and the Audio Recording is available online.",
+    "ticker": "HAVELLS",
+    "type_id": "18",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66993fa6f9844dead3e6d37c"
+    },
+    "attachment_name": "cc3c4881-26d0-4460-9bdc-f55e24df50fb.pdf",
+    "company_id": "n2yckexb4mrsluaiwpl7",
+    "company_name": "L&T Technology Services Ltd",
+    "created_at": {
+      "date": "2024-07-18T16:15:32.478Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T16:03:28.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/cc3c4881-26d0-4460-9bdc-f55e24df50fb.pdf",
+    "sub_type": "",
+    "summary": "",
+    "ticker": "LTTS",
+    "type_id": "26",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66993c23f9844dead3e67b2d"
+    },
+    "attachment_name": "40365408-8e51-4ed5-ac19-db6e26f8bac5.pdf",
+    "company_id": "giu9z8uuz1vavn8vh1oz",
+    "company_name": "AU Small Finance Bank Ltd",
+    "created_at": {
+      "date": "2024-07-18T16:00:33.514Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T15:57:15.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/40365408-8e51-4ed5-ac19-db6e26f8bac5.pdf",
+    "sub_type": "Conference Call",
+    "summary": "AU Small Finance Bank Ltd will host a conference call with analysts and investors to discuss financial results for the quarter ending June 30, 2024.",
+    "ticker": "AUBANK",
+    "type_id": "18",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66993c22f9844dead3e67b0e"
+    },
+    "attachment_name": "1f18706d-2a2c-4be3-8af1-67b5a1d74bfa.pdf",
+    "company_id": "9480e4c1a8924301810c",
+    "company_name": "INVENTURE GROWTH & SECURITIES LTD.",
+    "created_at": {
+      "date": "2024-07-18T16:00:31.100Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T15:49:57.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/1f18706d-2a2c-4be3-8af1-67b5a1d74bfa.pdf",
+    "sub_type": "Auditor appointment",
+    "summary": "M/s. PPV & Co have resigned as statutory auditors of INVENTURE GROWTH & SECURITIES LTD. M/s. CGCA & Associate LLP have been appointed as new auditors.",
+    "ticker": "INVENTURE",
+    "type_id": "6",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66993c21f9844dead3e67b05"
+    },
+    "attachment_name": "b11472ee-8844-425a-a47b-afec87ad5bfb.pdf",
+    "company_id": "9480e4c1a8924301810c",
+    "company_name": "INVENTURE GROWTH & SECURITIES LTD.",
+    "created_at": {
+      "date": "2024-07-18T16:00:31.100Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T15:47:17.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/b11472ee-8844-425a-a47b-afec87ad5bfb.pdf",
+    "sub_type": "Resignation of Auditors",
+    "summary": "Resignation of Statutory Auditors - M/s. PPV & Co. to be replaced by M/s. CGCA & Associate LLP",
+    "ticker": "INVENTURE",
+    "type_id": "6",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66993c21f9844dead3e67ade"
+    },
+    "attachment_name": "320be78a-6b23-46b0-a214-1ca4fbb953ae.pdf",
+    "company_id": "nzt06w3zzpsppjez6d6f",
+    "company_name": "CIE Automotive India Ltd",
+    "created_at": {
+      "date": "2024-07-18T16:00:31.065Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T15:46:16.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/320be78a-6b23-46b0-a214-1ca4fbb953ae.pdf",
+    "sub_type": "Investor Presentation",
+    "summary": "Investor Presentation enclosed on Q2 & H1CY24 results.",
+    "ticker": "CIEINDIA",
+    "type_id": "26",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66993c21f9844dead3e67acc"
+    },
+    "attachment_name": "FROG_18072024211649_Disclosure_Audio_Link_180724.pdf",
+    "company_id": "ca4b8ca6e2404730a7c6",
+    "company_name": "Frog Cellsat Limited",
+    "created_at": {
+      "date": "2024-07-18T16:00:31.188Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T15:46:49.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/FROG_18072024211649_Disclosure_Audio_Link_180724.pdf",
+    "sub_type": "Revised Recording Link",
+    "summary": "Frog Cellsat Limited has provided a revised link for the recording of the discussion on Q1 & FY25 Financial Results due to technical issues. The new link is available on the companys website.",
+    "ticker": "FROG",
+    "type_id": "18",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699389ff9844dead3e61c07"
+    },
+    "attachment_name": "564082e5-1431-4d23-8459-f1894066e532.pdf",
+    "company_id": "4RMu66KPnd",
+    "company_name": "Max Estates Ltd",
+    "created_at": {
+      "date": "2024-07-18T15:45:33.549Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T15:42:10.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/564082e5-1431-4d23-8459-f1894066e532.pdf",
+    "sub_type": "Investor Meeting",
+    "summary": "Max Estates Ltd to hold in-person meetings with institutional investors in Mumbai from July 23 to 25, 2024.",
+    "ticker": "MAXESTATES",
+    "type_id": "18",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699389df9844dead3e61be6"
+    },
+    "attachment_name": "b0b61fc5-b495-42ea-a52b-a6d999b8b6f6.pdf",
+    "company_id": "1da644fmmdhwyq35e25v",
+    "company_name": "WIPRO LTD.",
+    "created_at": {
+      "date": "2024-07-18T15:45:31.930Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T15:36:08.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/b0b61fc5-b495-42ea-a52b-a6d999b8b6f6.pdf",
+    "sub_type": "Equity Allotment",
+    "summary": "WIPRO LTD. allotted 17,459 equity shares under ADS Restricted Stock Unit Plan 2004 and 46,738 equity shares under Restricted Stock Unit Plan 2007 on July 18, 2024.",
+    "ticker": "WIPRO",
+    "type_id": "15",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699389df9844dead3e61bde"
+    },
+    "attachment_name": "7afe73b8-55fd-4f20-b573-3c0ad0fe15c5.pdf",
+    "company_id": "a11baf018fb44a929b24",
+    "company_name": "Sastasundar Ventures Ltd",
+    "created_at": {
+      "date": "2024-07-18T15:45:31.929Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T15:41:34.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/7afe73b8-55fd-4f20-b573-3c0ad0fe15c5.pdf",
+    "sub_type": "New Subsidiary Incorporation",
+    "summary": "Incorporation of step-down subsidiary Sastasundar Healthtech Private Limited by Sastasundar Healthbuddy Limited",
+    "ticker": "SASTASUNDR",
+    "type_id": "15",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699389df9844dead3e61bb7"
+    },
+    "attachment_name": "05c3096f-b47b-4d19-a48c-e87d35f0bffe.pdf",
+    "company_id": "5glmnfe4d1phjdqw6y9k",
+    "company_name": "PREMIER EXPLOSIVES LTD.",
+    "created_at": {
+      "date": "2024-07-18T15:45:31.896Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T15:30:38.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/05c3096f-b47b-4d19-a48c-e87d35f0bffe.pdf",
+    "sub_type": "Earnings Call",
+    "summary": "Premier Explosives Ltd. uploaded the audio recording of the earnings conference call for Q1FY25 results on their website.",
+    "ticker": "PREMEXPLN",
+    "type_id": "18",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699351af9844dead3e5a895"
+    },
+    "attachment_name": "SSFL_18072024205618_Presentation_Video_Recording_Intimation_NSE_18072024.pdf",
+    "company_id": "1AgexGUjcR",
+    "company_name": "Srivari Spices And Foods Limited",
+    "created_at": {
+      "date": "2024-07-18T15:30:31.651Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T15:26:18.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/SSFL_18072024205618_Presentation_Video_Recording_Intimation_NSE_18072024.pdf",
+    "sub_type": "Video Recording & Presentation",
+    "summary": "Srivari Spices and Foods Limited uploaded video recording and presentation of Investors Meeting on July18,2024 on their website.",
+    "ticker": "SSFL",
+    "type_id": "18",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66993519f9844dead3e5a87f"
+    },
+    "attachment_name": "f95aa581-4118-456f-ad62-7a9c86f85347.pdf",
+    "company_id": "g8u18d79jeg7ivnkcu39",
+    "company_name": "Crompton Greaves Consumer Electricals Ltd",
+    "created_at": {
+      "date": "2024-07-18T15:30:31.612Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T15:25:35.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/f95aa581-4118-456f-ad62-7a9c86f85347.pdf",
+    "sub_type": "Product Launch",
+    "summary": "Crompton Greaves Consumer Electricals Ltd disclosed the launch of Rapid jet Plus Storage Water Heater for the domestic market on 18/07/2024.",
+    "ticker": "CROMPTON",
+    "type_id": "12",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66993519f9844dead3e5a875"
+    },
+    "attachment_name": "af72341b-5e78-4b32-a32b-c95c783bad85.pdf",
+    "company_id": "10c4524b7c344d569f96",
+    "company_name": "JTL Industries Ltd",
+    "created_at": {
+      "date": "2024-07-18T15:30:31.648Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T15:30:19.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/af72341b-5e78-4b32-a32b-c95c783bad85.pdf",
+    "sub_type": "Equity Placement",
+    "summary": "JTL Industries Ltd announced a qualified institutions placement of equity shares, approved a floor price of Rs221.57 per share, and closed the trading window, to raise funds through a QIP.",
+    "ticker": "JTLIND",
+    "type_id": "23",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66993195f9844dead3e511ac"
+    },
+    "attachment_name": "5d433e25-41e7-4709-bceb-d997055aa462.pdf",
+    "company_id": "513f9934923d4f9eb0e8",
+    "company_name": "Interactive Financial Services Ltd",
+    "created_at": {
+      "date": "2024-07-18T15:15:31.159Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T15:10:07.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/5d433e25-41e7-4709-bceb-d997055aa462.pdf",
+    "sub_type": "Certificate Submission",
+    "summary": "Interactive Financial Services Ltd has submitted a certificate under SEBI regulations for the quarter ended June 30, 2024.",
+    "ticker": "IFINSER",
+    "type_id": "26",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992e13f9844dead3e47c2a"
+    },
+    "attachment_name": "FROG_18072024202231_Disclosure_Audio_Link.pdf",
+    "company_id": "ca4b8ca6e2404730a7c6",
+    "company_name": "Frog Cellsat Limited",
+    "created_at": {
+      "date": "2024-07-18T15:00:33.014Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T14:52:31.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/FROG_18072024202231_Disclosure_Audio_Link.pdf",
+    "sub_type": "Link Recording Announcement",
+    "summary": "Frog Cellsat provides link to recordings of Q1 & FY25 results concall on website.",
+    "ticker": "FROG",
+    "type_id": "18",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992e13f9844dead3e47c26"
+    },
+    "attachment_name": "JAIPURKURT_18072024202658_REG74NCL.pdf",
+    "company_id": "da659d7c7f4146988177",
+    "company_name": "Nandani Creation Limited",
+    "created_at": {
+      "date": "2024-07-18T15:00:33.049Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T14:56:58.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/JAIPURKURT_18072024202658_REG74NCL.pdf",
+    "sub_type": "Certificate Submission",
+    "summary": "Nandani Creation Limited submitted a Certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended June 30, 2024.",
+    "ticker": "JAIPURKURT",
+    "type_id": "26",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992e11f9844dead3e47bf0"
+    },
+    "attachment_name": "0fb41258-0a68-4e54-a0e6-a6a3d2ec8568.pdf",
+    "company_id": "b03d0044a2154b0abc8a",
+    "company_name": "Aastamangalam Finance Ltd",
+    "created_at": {
+      "date": "2024-07-18T15:00:31.455Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T14:47:23.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/0fb41258-0a68-4e54-a0e6-a6a3d2ec8568.pdf",
+    "sub_type": "Appointment of Officer",
+    "summary": "Aastamangalam Finance Ltd appointed Mr. Binod Kumar Chowdhury as Company Secretary and Compliance Officer on July 18, 2024.",
+    "ticker": "AASTAFIN",
+    "type_id": "6",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992e11f9844dead3e47be4"
+    },
+    "attachment_name": "4a51e92a-c933-4407-b08e-d57a30a17da7.pdf",
+    "company_id": "r7Hsau2W0C",
+    "company_name": "Tata Technologies Ltd",
+    "created_at": {
+      "date": "2024-07-18T15:00:31.388Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T14:45:48.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/4a51e92a-c933-4407-b08e-d57a30a17da7.pdf",
+    "sub_type": "Financial Results Presentation Audio Recording",
+    "summary": "Audio recording available for Tata Technologies Analyst Call/Investor Presentation on financial results for quarter ended June 30, 2024",
+    "ticker": "TATATECH",
+    "type_id": "18",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992a91f9844dead3e3f1ca"
+    },
+    "attachment_name": "84eea2fa-c865-4726-9628-6b021b962ffd.pdf",
+    "company_id": "3z3fIWMiVL",
+    "company_name": "JSW Infrastructure Ltd",
+    "created_at": {
+      "date": "2024-07-18T14:45:35.220Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T14:39:52.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/84eea2fa-c865-4726-9628-6b021b962ffd.pdf",
+    "sub_type": "Conference Call Disclosure",
+    "summary": "JSW Infrastructure Ltd provided a link to the audio transcript of the Q1 FY25 Result Conference Call on their website.",
+    "ticker": "JSWINFRA",
+    "type_id": "18",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992a8ff9844dead3e3f19b"
+    },
+    "attachment_name": "76509744-8090-43ba-9433-f47cf832a335.pdf",
+    "company_id": "u6be0dcvs3xo3ks8qhub",
+    "company_name": "Tanla Platforms Ltd",
+    "created_at": {
+      "date": "2024-07-18T14:45:33.852Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T14:39:07.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/76509744-8090-43ba-9433-f47cf832a335.pdf",
+    "sub_type": "Investor Updates",
+    "summary": "Tanla Platforms Ltd provided investor updates for the quarter ended June 30, 2024, including indicative data around market size and company share in the CPaaS space.",
+    "ticker": "TANLA",
+    "type_id": "15",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992a8ff9844dead3e3f18b"
+    },
+    "attachment_name": "2679b46a-40b5-415e-82ff-e7f99627296a.pdf",
+    "company_id": "71694f612bd94ebd8501",
+    "company_name": "Country Club Hospitality & Holidays Ltd",
+    "created_at": {
+      "date": "2024-07-18T14:45:33.340Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T14:37:36.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/2679b46a-40b5-415e-82ff-e7f99627296a.pdf",
+    "sub_type": "Compliance Certificate Submission",
+    "summary": "Country Club Hospitality & Holidays Ltd complied with Regulation 74(5) of SEBI (DP) Regulations, 2018 for the period from 1/04/2024 to 30/06/2024.",
+    "ticker": "CCHHL",
+    "type_id": "23",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992a8ff9844dead3e3f181"
+    },
+    "attachment_name": "19878113-9fbc-4089-a743-bac2a5c1c9d0.pdf",
+    "company_id": "bgbxz5wp31oxwmufwz7d",
+    "company_name": "PERSISTENT SYSTEMS LTD.",
+    "created_at": {
+      "date": "2024-07-18T14:45:33.677Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T14:38:00.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/19878113-9fbc-4089-a743-bac2a5c1c9d0.pdf",
+    "sub_type": "Financial Approval",
+    "summary": "Persistent Systems Ltd. approved Audited Financial Statements for the quarter ended June 30, 2024.",
+    "ticker": "PERSISTENT",
+    "type_id": "19",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992a8df9844dead3e3f151"
+    },
+    "attachment_name": "4749906f-880f-4ba7-b454-a669059bddd5.pdf",
+    "company_id": "23ec33ee1ad34391af2b",
+    "company_name": "COUNTRY CONDO'S LTD.",
+    "created_at": {
+      "date": "2024-07-18T14:45:31.425Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T14:31:53.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/4749906f-880f-4ba7-b454-a669059bddd5.pdf",
+    "sub_type": "Compliance Confirmation",
+    "summary": "AARTHI CONSULTANTS PVT. LTD confirms compliance with SEBI regulations regarding dematerialization of securities for COUNTRY CONDOS LTD. 531624 from 1/04/2024 to 30/06/2024.",
+    "ticker": "COUNCODOS",
+    "type_id": "15",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992a8df9844dead3e3f146"
+    },
+    "attachment_name": "4d76621a-f9e4-4afa-a60e-4c5c47eb5be5.pdf",
+    "company_id": "u6be0dcvs3xo3ks8qhub",
+    "company_name": "Tanla Platforms Ltd",
+    "created_at": {
+      "date": "2024-07-18T14:45:31.446Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T14:32:12.000Z"
+    },
+    "sentiment": "positive",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/4d76621a-f9e4-4afa-a60e-4c5c47eb5be5.pdf",
+    "sub_type": "Shareholders Letter",
+    "summary": "Tanla Platforms Ltd shared the Shareholders Letter for Q1 FY25 showcasing strong growth and profitability, with OTT contributing to 19.9% of revenue.",
+    "ticker": "TANLA",
+    "type_id": "19",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992a8df9844dead3e3f139"
+    },
+    "attachment_name": "248ba67f-d64c-4ef1-b167-b587a0de91c6.pdf",
+    "company_id": "mwpsj0it3cwn90w00g1y",
+    "company_name": "GE Power India Ltd",
+    "created_at": {
+      "date": "2024-07-18T14:45:31.383Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T14:31:10.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/248ba67f-d64c-4ef1-b167-b587a0de91c6.pdf",
+    "sub_type": "Investor Meet Outcome",
+    "summary": "Audio recording of investor meet available on company website.",
+    "ticker": "GEPIL",
+    "type_id": "18",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699270bf9844dead3e374c6"
+    },
+    "attachment_name": "91e14e59-e71c-46af-927c-959e655a004c.pdf",
+    "company_id": "nzt06w3zzpsppjez6d6f",
+    "company_name": "CIE Automotive India Ltd",
+    "created_at": {
+      "date": "2024-07-18T14:30:33.383Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T14:29:47.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/91e14e59-e71c-46af-927c-959e655a004c.pdf",
+    "sub_type": "Investor Presentation",
+    "summary": "CIE Automotive India Ltd has released an investor presentation for Q1CY2024 results.",
+    "ticker": "CIEINDIA",
+    "type_id": "18",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699270bf9844dead3e374ba"
+    },
+    "attachment_name": "b9635f1a-5ebe-4360-a7a8-fa6b15b482f8.pdf",
+    "company_id": "947edb5bf3c14513b394",
+    "company_name": "VAMA INDUSTRIES LTD.",
+    "created_at": {
+      "date": "2024-07-18T14:30:33.128Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T14:29:23.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/b9635f1a-5ebe-4360-a7a8-fa6b15b482f8.pdf",
+    "sub_type": "Certificate Submission",
+    "summary": "VAMA INDUSTRIES LTD. submitted the certificate under Regulation 74(5) of SEBI (Depositories and Participants) Regulations 2018 for the quarter ended June 30, 2024.",
+    "ticker": "VAMA",
+    "type_id": "26",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699270af9844dead3e3749b"
+    },
+    "attachment_name": "587e9419-9ed7-4343-a6df-36de746dbe37.pdf",
+    "company_id": "9i7kfnkxqsa9u8kgsv4x",
+    "company_name": "RALLIS INDIA LTD.",
+    "created_at": {
+      "date": "2024-07-18T14:30:32.829Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T14:28:37.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/587e9419-9ed7-4343-a6df-36de746dbe37.pdf",
+    "sub_type": "Presentation",
+    "summary": "Rallis India Ltd. submitted an analyst/investor presentation for the first quarter financial results ending on June 30, 2024, for a call on July 19, 2024.",
+    "ticker": "RALLIS",
+    "type_id": "18",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992709f9844dead3e37479"
+    },
+    "attachment_name": "SUNDARMHLD_18072024194928_AGMPROCESCRUREG44.pdf",
+    "company_id": "ccb14f67b54c46b98468",
+    "company_name": "Sundaram Finance Holdings Limited",
+    "created_at": {
+      "date": "2024-07-18T14:30:31.858Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T14:19:28.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/SUNDARMHLD_18072024194928_AGMPROCESCRUREG44.pdf",
+    "sub_type": "AGM Results",
+    "summary": "AGM held on July 18, 2024 with voting results, copy of scrutinizers report, and minutes provided.",
+    "ticker": "SUNDARMHLD",
+    "type_id": "26",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992709f9844dead3e37458"
+    },
+    "attachment_name": "bdee3cab-3097-4520-9735-c129ff0eb1ac.pdf",
+    "company_id": "u6be0dcvs3xo3ks8qhub",
+    "company_name": "Tanla Platforms Ltd",
+    "created_at": {
+      "date": "2024-07-18T14:30:30.785Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T14:22:01.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/bdee3cab-3097-4520-9735-c129ff0eb1ac.pdf",
+    "sub_type": "Financial Results Announcement",
+    "summary": "Tanla Platforms Ltd announced their financial results for the first quarter of FY25, with revenue growing by 10% year-over-year, gross profit increasing by 11.7%, and profit after tax rising by 4.3%.",
+    "ticker": "TANLA",
+    "type_id": "19",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992709f9844dead3e3744b"
+    },
+    "attachment_name": "a0da30a8-27b7-41e9-81a3-affd5a83d863.pdf",
+    "company_id": "RqXQoBNuB3",
+    "company_name": "SBFC Finance Ltd",
+    "created_at": {
+      "date": "2024-07-18T14:30:30.787Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T14:18:26.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/a0da30a8-27b7-41e9-81a3-affd5a83d863.pdf",
+    "sub_type": "Credit Rating Upgrade",
+    "summary": "SBFC Finance Ltd disclosed an upgrade in their credit rating from CARE A+ to AA- by CARE Ratings Limited for long-term bank facilities amounting to Rs 200 crore.",
+    "ticker": "SBFC",
+    "type_id": "17",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992708f9844dead3e3743e"
+    },
+    "attachment_name": "30ee7a0c-cd28-4baf-9e6e-990e502ff833.pdf",
+    "company_id": "e4y4mcienf3zuxnwouk0",
+    "company_name": "Escorts Kubota Ltd",
+    "created_at": {
+      "date": "2024-07-18T14:30:30.749Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T14:15:34.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/30ee7a0c-cd28-4baf-9e6e-990e502ff833.pdf",
+    "sub_type": "Directorate Change",
+    "summary": "Mr. Kenichiro Toyofuku resigned as Independent Director and Mr. Kinji Saito was appointed as Independent Director.",
+    "ticker": "ESCORTS",
+    "type_id": "6",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992389f9844dead3e30930"
+    },
+    "attachment_name": "a2c0e382-a19c-47ca-b9c5-278eac7a2b65.pdf",
+    "company_id": "eadwmdmpfi6ar8yw3w0l",
+    "company_name": "BANK OF MAHARASHTRA",
+    "created_at": {
+      "date": "2024-07-18T14:15:36.315Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T14:14:40.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/a2c0e382-a19c-47ca-b9c5-278eac7a2b65.pdf",
+    "sub_type": "Appointment of Officer",
+    "summary": "Bank of Maharashtra appointed Ritika Birla as Additional Compliance Officer under SEBI regulations.",
+    "ticker": "MAHABANK",
+    "type_id": "6",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992389f9844dead3e3091f"
+    },
+    "attachment_name": "685afeb5-1447-4ba5-86c1-2b7ddbb0a6ea.pdf",
+    "company_id": "d848a11c6b9947259dc2",
+    "company_name": "Global Longlife Hospital and Research Ltd",
+    "created_at": {
+      "date": "2024-07-18T14:15:35.713Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T14:14:29.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/685afeb5-1447-4ba5-86c1-2b7ddbb0a6ea.pdf",
+    "sub_type": "Certificate Submission",
+    "summary": "Global Longlife Hospital and Research Ltd submitted a certificate under regulation 74(5) of SEBI (Depositories and Participants) Regulations, 2018 for the quarter ended June 30, 2024.",
+    "ticker": "GLHRL",
+    "type_id": "26",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992388f9844dead3e308f9"
+    },
+    "attachment_name": "919aacc1-28b5-4e17-b4ca-c118b25087f9.pdf",
+    "company_id": "585fd6ce68294c03b4a9",
+    "company_name": "Adroit Infotech Ltd",
+    "created_at": {
+      "date": "2024-07-18T14:15:34.609Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T14:14:11.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/919aacc1-28b5-4e17-b4ca-c118b25087f9.pdf",
+    "sub_type": "Resignation of Director",
+    "summary": "Shobha Rani Surapanani resigned as Independent Director from Adroit Infotech Ltd.",
+    "ticker": "ADROITINFO",
+    "type_id": "6",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992388f9844dead3e308ed"
+    },
+    "attachment_name": "767140f4-a8f8-48ce-a942-ec692e2cb394.pdf",
+    "company_id": "8fc8268c1f654d71af8b",
+    "company_name": "POLYPLEX CORPORATION LTD.",
+    "created_at": {
+      "date": "2024-07-18T14:15:33.010Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T14:06:40.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/767140f4-a8f8-48ce-a942-ec692e2cb394.pdf",
+    "sub_type": "Unclaimed Dividend and Shares Transfer",
+    "summary": "Polyplex Corporation Limited announces the transfer of unclaimed dividends and shares to the Investor Education and Protection Fund pursuant to Section 124(6) of the Companies Act, 2013.",
+    "ticker": "POLYPLEX",
+    "type_id": "15",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992387f9844dead3e308d3"
+    },
+    "attachment_name": "fb18d50f-25d6-438f-ae0c-ce8a9930f5a7.pdf",
+    "company_id": "e59fa0b46cf9477482c6",
+    "company_name": "Tuticorin Alkali Chemicals And Fertilizers Ltd",
+    "created_at": {
+      "date": "2024-07-18T14:15:33.976Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T14:10:44.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/fb18d50f-25d6-438f-ae0c-ce8a9930f5a7.pdf",
+    "sub_type": "Certificate Submission",
+    "summary": "Tuticorin Alkali Chemicals & Fertilizers Ltd submits Certificate under Regulation 74(5) for the Quarter ended 30.06.2024.",
+    "ticker": "TUTIALKA",
+    "type_id": "26",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992386f9844dead3e308ad"
+    },
+    "attachment_name": "4726b141-57e6-486a-9ac4-0477638a38c2.pdf",
+    "company_id": "t5n0a2g8aq45euqm04fq",
+    "company_name": "BRIGADE ENTERPRISES LTD.",
+    "created_at": {
+      "date": "2024-07-18T14:15:32.603Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T14:06:09.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/4726b141-57e6-486a-9ac4-0477638a38c2.pdf",
+    "sub_type": "Change in Management",
+    "summary": "Mr. Subrahmanya Gupta Boda resigned as Vice President - Digital & IT Systems, Mr. Nikhil Shembekar appointed in his place.",
+    "ticker": "BRIGADE",
+    "type_id": "6",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992385f9844dead3e3089d"
+    },
+    "attachment_name": "d72defb5-b99f-452a-ac6b-227cf2fa050f.pdf",
+    "company_id": "aq2pel0otyrdm7ld8y0t",
+    "company_name": "V-GUARD INDUSTRIES LTD.",
+    "created_at": {
+      "date": "2024-07-18T14:15:30.628Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T14:02:58.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/d72defb5-b99f-452a-ac6b-227cf2fa050f.pdf",
+    "sub_type": "Corrigendum",
+    "summary": "V-GUARD INDUSTRIES LTD. has issued a corrigendum to correct typographical errors in the Annual Report for the Financial Year 2023-24.",
+    "ticker": "VGUARD",
+    "type_id": "14",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992384f9844dead3e30873"
+    },
+    "attachment_name": "8b38a07d-b0cc-40bd-b731-4160da68476e.pdf",
+    "company_id": "148a2630019246e2af57",
+    "company_name": "SUPREME PETROCHEM LTD.",
+    "created_at": {
+      "date": "2024-07-18T14:15:30.633Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T14:04:30.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/8b38a07d-b0cc-40bd-b731-4160da68476e.pdf",
+    "sub_type": "Conference Call Postponed",
+    "summary": "SUPREME PETROCHEM LTD. postpones Investors Conference Call regarding Q1 FY25 earnings to July 25, 2024.",
+    "ticker": "SPLPETRO",
+    "type_id": "18",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992384f9844dead3e30858"
+    },
+    "attachment_name": "229756f8-4545-43a5-8f48-d25af7381d3c.pdf",
+    "company_id": "nzt06w3zzpsppjez6d6f",
+    "company_name": "CIE Automotive India Ltd",
+    "created_at": {
+      "date": "2024-07-18T14:15:30.593Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T14:00:34.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/229756f8-4545-43a5-8f48-d25af7381d3c.pdf",
+    "sub_type": "Related Party Transactions Disclosure",
+    "summary": "CIE Automotive India Ltd disclosed Related Party Transactions for the half year ended 30th June, 2024.",
+    "ticker": "CIEINDIA",
+    "type_id": "15",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992009f9844dead3e29d15"
+    },
+    "attachment_name": "1e7f1679-3349-4160-b2ae-12c73a549408.pdf",
+    "company_id": "9i7kfnkxqsa9u8kgsv4x",
+    "company_name": "RALLIS INDIA LTD.",
+    "created_at": {
+      "date": "2024-07-18T14:00:39.944Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:59:30.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/1e7f1679-3349-4160-b2ae-12c73a549408.pdf",
+    "sub_type": "Financial Results",
+    "summary": "Rallis India Limited reported revenue of Rs 783 Cr and PAT of Rs 48 Cr for the first quarter ended June 30, 2024.",
+    "ticker": "RALLIS",
+    "type_id": "19",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992009f9844dead3e29cf0"
+    },
+    "attachment_name": "a6921ab8-6aa1-4b82-b6fa-d844918c5749.pdf",
+    "company_id": "d13patwvpxfwzo01yth7",
+    "company_name": "TECH MAHINDRA LTD.",
+    "created_at": {
+      "date": "2024-07-18T14:00:39.111Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:58:36.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/a6921ab8-6aa1-4b82-b6fa-d844918c5749.pdf",
+    "sub_type": "Merger of Subsidiaries",
+    "summary": "Tech Mahindra Ltd. announced the Plan of Merger of its wholly-owned subsidiaries in the Philippines, vCustomer Philippines, Inc. and vCustomer Philippines (Cebu), Inc., subject to regulatory approvals, with the appointed date of April 1, 2024.",
+    "ticker": "TECHM",
+    "type_id": "1",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992008f9844dead3e29cdf"
+    },
+    "attachment_name": "92026dea-21e8-4c0e-af9f-0d598b5775f1.pdf",
+    "company_id": "u5u4su4q2ouzwwzulunr",
+    "company_name": "ADANI PORTS AND SPECIAL ECONOMIC ZONE LTD.",
+    "created_at": {
+      "date": "2024-07-18T14:00:39.270Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:59:11.000Z"
+    },
+    "sentiment": "positive",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/92026dea-21e8-4c0e-af9f-0d598b5775f1.pdf",
+    "sub_type": "Credit Rating Upgrade",
+    "summary": "Adani Ports and Special Economic Zone Ltd credit rating upgraded to AAA/Stable by ICRA Limited.",
+    "ticker": "ADANIPORTS",
+    "type_id": "11",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992007f9844dead3e29cc3"
+    },
+    "attachment_name": "e6e1b9e3-8962-4122-95b7-480338e49277.pdf",
+    "company_id": "7c047e17cfbd43a9a56e",
+    "company_name": "Axita Cotton Ltd",
+    "created_at": {
+      "date": "2024-07-18T14:00:38.032Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:58:06.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/e6e1b9e3-8962-4122-95b7-480338e49277.pdf",
+    "sub_type": "Clarification Announcement",
+    "summary": "Axita Cotton Ltd clarified a clerical error in the outcome of the Board Meeting on June 17, 2024, regarding the committee membership and appointed an additional Director.",
+    "ticker": "AXITA",
+    "type_id": "6",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992007f9844dead3e29c95"
+    },
+    "attachment_name": "12c214ea-5503-4fd0-9724-92dd0409a92f.pdf",
+    "company_id": "p8up6gvhgh1hg2uodvuw",
+    "company_name": "Polycab India Ltd",
+    "created_at": {
+      "date": "2024-07-18T14:00:36.920Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:56:36.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/12c214ea-5503-4fd0-9724-92dd0409a92f.pdf",
+    "sub_type": "Credit Rating Affirmation",
+    "summary": "Polycab India Ltd informed about credit rating affirmation by India Ratings and Research for fund-based and non-fund based working capital limits.",
+    "ticker": "POLYCAB",
+    "type_id": "11",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992007f9844dead3e29c61"
+    },
+    "attachment_name": "5ac9bf2f-586d-4e57-82d3-daefb5cf9222.pdf",
+    "company_id": "akv4oqr0j8wz0ei1ykin",
+    "company_name": "EICHER MOTORS LTD.",
+    "created_at": {
+      "date": "2024-07-18T14:00:36.728Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:55:46.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/5ac9bf2f-586d-4e57-82d3-daefb5cf9222.pdf",
+    "sub_type": "GST Demand Order",
+    "summary": "Eicher Motors Ltd received a GST demand order for Rs. 15 lakhs, including tax demand, interest, and penalty, which is under evaluation for appeal.",
+    "ticker": "EICHERMOT",
+    "type_id": "9",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992006f9844dead3e29c03"
+    },
+    "attachment_name": "8162f4f8-f127-4302-8567-c3168e8af6fd.pdf",
+    "company_id": "bd0f5f12ce6e44f7acd9",
+    "company_name": "Relicab Cable Manufacturing Ltd",
+    "created_at": {
+      "date": "2024-07-18T14:00:35.931Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:54:43.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/8162f4f8-f127-4302-8567-c3168e8af6fd.pdf",
+    "sub_type": "Certificate Submission",
+    "summary": "Relicab Cable Manufacturing Ltd. has submitted a certificate under Regulation 74(5) of the SEBI (Depositories and Participants) Regulations, 2018 for the quarter ending 30.06.2024.",
+    "ticker": "RELICAB",
+    "type_id": "19",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992004f9844dead3e29be0"
+    },
+    "attachment_name": "36e911e0-8b1d-4cf5-b9ca-9e9fafb0d4b5.pdf",
+    "company_id": "RexGl2KUkk",
+    "company_name": "AIK Pipes and Polymers Ltd",
+    "created_at": {
+      "date": "2024-07-18T14:00:33.686Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:49:11.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/36e911e0-8b1d-4cf5-b9ca-9e9fafb0d4b5.pdf",
+    "sub_type": "Investor Meeting",
+    "summary": "AIK Pipes and Polymers Ltd organizing an Investor/Analyst Meet on 21.07.2024 at 11:00 a.m. virtually.",
+    "ticker": "AIKPIPES",
+    "type_id": "18",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992004f9844dead3e29bd5"
+    },
+    "attachment_name": "FFD1034A-4D3F-4064-9AFD-56E84136F180-192242.pdf",
+    "company_id": "s3v4wqg0luyst6mbqrwt",
+    "company_name": "KARUR VYSYA BANK LTD.",
+    "created_at": {
+      "date": "2024-07-18T14:00:35.160Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:52:48.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/FFD1034A-4D3F-4064-9AFD-56E84136F180-192242.pdf",
+    "sub_type": "Equity Allotment",
+    "summary": "Allotment of 47,097 Equity Shares under Employee Stock Option Schemes on July 18, 2024.",
+    "ticker": "KARURVYSYA",
+    "type_id": "7",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992003f9844dead3e29bb4"
+    },
+    "attachment_name": "062aeb96-9ffe-437a-bec6-221720bc114f.pdf",
+    "company_id": "477449d459794460b148",
+    "company_name": "Alan Scott Industries Ltd",
+    "created_at": {
+      "date": "2024-07-18T14:00:34.404Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:49:33.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/062aeb96-9ffe-437a-bec6-221720bc114f.pdf",
+    "sub_type": "Compliance Certificate Submission",
+    "summary": "Certificate under Regulation 74(5) of SEBI (DP) Regulations, 2018 for the quarter ended June 30, 2024 submitted",
+    "ticker": "ALAN SCOTT",
+    "type_id": "26",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992003f9844dead3e29b93"
+    },
+    "attachment_name": "ddc33b7a-67db-4f44-a891-1d14bf753143.pdf",
+    "company_id": "bgbxz5wp31oxwmufwz7d",
+    "company_name": "PERSISTENT SYSTEMS LTD.",
+    "created_at": {
+      "date": "2024-07-18T14:00:33.529Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:47:38.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/ddc33b7a-67db-4f44-a891-1d14bf753143.pdf",
+    "sub_type": "Investor/Analyst Meet",
+    "summary": "Persistent Systems Limited will hold investor/analyst sessions on July 21 and 22, 2024 with various mutual funds.",
+    "ticker": "PERSISTENT",
+    "type_id": "18",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992003f9844dead3e29b8b"
+    },
+    "attachment_name": "KODYTECH_18072024191557_Scrutinizer_Report_Corrigendum.pdf",
+    "company_id": "LJ05oyexDv",
+    "company_name": "Kody Technolab Limited",
+    "created_at": {
+      "date": "2024-07-18T14:00:32.366Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:45:57.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/KODYTECH_18072024191557_Scrutinizer_Report_Corrigendum.pdf",
+    "sub_type": "EGM Scrutinizer Report",
+    "summary": "Kody Technolab Limited submitted Scrutinizer Report for Corrigendum to the Notice of EGM held on 22nd June, 2024, addressing queries regarding Valuation Report and explanatory statement.",
+    "ticker": "KODYTECH",
+    "type_id": "6",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992002f9844dead3e29b7a"
+    },
+    "attachment_name": "SARTELE_18072024192818_Analyst.pdf",
+    "company_id": "j2BHuO4zJP",
+    "company_name": "Sar Televenture Limited",
+    "created_at": {
+      "date": "2024-07-18T14:00:32.403Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:58:18.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/SARTELE_18072024192818_Analyst.pdf",
+    "sub_type": "Virtual Conference Call",
+    "summary": "SAR Televenture Limited to hold virtual conference call on July 22, 2024 for FPO cum Rights Issue",
+    "ticker": "SARTELE",
+    "type_id": "18",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992002f9844dead3e29b6e"
+    },
+    "attachment_name": "SEL_18072024192835_PressReleaseSungarner.pdf",
+    "company_id": "8G6hLOGAQh",
+    "company_name": "Sungarner Energies Limited",
+    "created_at": {
+      "date": "2024-07-18T14:00:32.403Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:58:35.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/SEL_18072024192835_PressReleaseSungarner.pdf",
+    "sub_type": "Press Release",
+    "summary": "Sungarner Energies Limited press release dated July 18, 2024 regarding SEBI regulations disclosure.",
+    "ticker": "SEL",
+    "type_id": "26",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992002f9844dead3e29b60"
+    },
+    "attachment_name": "4e64e1d7-debe-4ba0-86a6-ed612e941a0e.pdf",
+    "company_id": "2fcafb35b04a422c816e",
+    "company_name": "Kovilpatti Lakshmi Roller Flour Mills Ltd",
+    "created_at": {
+      "date": "2024-07-18T14:00:31.510Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:47:09.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/4e64e1d7-debe-4ba0-86a6-ed612e941a0e.pdf",
+    "sub_type": "Newspaper Publication",
+    "summary": "Kovilpatti Lakshmi Roller Flour Mills published notice to shareholders in English and Tamil newspapers on July 18, 2024.",
+    "ticker": "KLRFM",
+    "type_id": "18",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992001f9844dead3e29b46"
+    },
+    "attachment_name": "825ac61a-4a54-4732-b6b9-16f974fb2a62.pdf",
+    "company_id": "4t5ydhd7y9gjbauqu8ik",
+    "company_name": "DHANUKA AGRITECH LTD.",
+    "created_at": {
+      "date": "2024-07-18T14:00:31.546Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:47:11.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/825ac61a-4a54-4732-b6b9-16f974fb2a62.pdf",
+    "sub_type": "Strike-off of subsidiary",
+    "summary": "Strike-off of wholly owned subsidiary",
+    "ticker": "DHANUKA",
+    "type_id": "2",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66992001f9844dead3e29b3a"
+    },
+    "attachment_name": "61a60082-39b4-43c3-8810-bb487e56fa73.pdf",
+    "company_id": "i2ypwfgm8wmfgaynm3m4",
+    "company_name": "INDIA GLYCOLS LTD.",
+    "created_at": {
+      "date": "2024-07-18T14:00:31.547Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:47:35.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/61a60082-39b4-43c3-8810-bb487e56fa73.pdf",
+    "sub_type": "Dividend Tax Deduction",
+    "summary": "Communication of deduction of tax at source on dividend for FY 2023-24 at India Glycols LTD. after approval at AGM, with tax rates for resident members.",
+    "ticker": "INDIAGLYCO",
+    "type_id": "16",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66991c90f9844dead3e22f8a"
+    },
+    "attachment_name": "MGEL_18072024191006_NEWSPAPERPOSTANNUALREPORT17072024SIGNED.pdf",
+    "company_id": "2f8d302f8bdc4353a63c",
+    "company_name": "Mangalam Global Enterprise Limited",
+    "created_at": {
+      "date": "2024-07-18T13:45:32.104Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:40:06.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/MGEL_18072024191006_NEWSPAPERPOSTANNUALREPORT17072024SIGNED.pdf",
+    "sub_type": "Newspaper Publication",
+    "summary": "Mangalam Global Enterprise Limited has informed the Exchange about the newspaper publication confirming the dispatch of the Notice of 14th Annual General Meeting and Annual Report for the Financial Year 2023-24.",
+    "ticker": "MGEL",
+    "type_id": "19",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66991c85f9844dead3e22e54"
+    },
+    "attachment_name": "07976c01-3af2-4a37-9632-4f8e2be63a29.pdf",
+    "company_id": "34d7b14f54eb49e6b415",
+    "company_name": "SK International Export Ltd",
+    "created_at": {
+      "date": "2024-07-18T13:45:39.608Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:44:09.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/07976c01-3af2-4a37-9632-4f8e2be63a29.pdf",
+    "sub_type": "Compliance Certificate",
+    "summary": "SK International Export Ltd has provided a compliance certificate under Regulation 74(5) of SEBI (DP) Regulations, 2018 for the quarter ended June 30, 2024.",
+    "ticker": "SKIEL",
+    "type_id": "19",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66991c85f9844dead3e22e3e"
+    },
+    "attachment_name": "569f5d3a-a48a-4d65-b11c-65ee0ff6f872.pdf",
+    "company_id": "8ysq56t49xumd4zfod6u",
+    "company_name": "COROMANDEL INTERNATIONAL LTD.",
+    "created_at": {
+      "date": "2024-07-18T13:45:39.609Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:45:08.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/569f5d3a-a48a-4d65-b11c-65ee0ff6f872.pdf",
+    "sub_type": "Stake Acquisition",
+    "summary": "Coromandel International Limited has acquired a stake in Coromandel Crop Protection Philippines Inc. by investing USD 193,000, increasing its stake from 40% to 93.23%.",
+    "ticker": "COROMANDEL",
+    "type_id": "1",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66991c84f9844dead3e22e12"
+    },
+    "attachment_name": "5133fb53-9c46-4055-94e2-83f6c78197da.pdf",
+    "company_id": "4955c9fe678f4236a57b",
+    "company_name": "Maestros Electronics & Telecommunications Systems Ltd",
+    "created_at": {
+      "date": "2024-07-18T13:45:38.267Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:43:13.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/5133fb53-9c46-4055-94e2-83f6c78197da.pdf",
+    "sub_type": "Investment Approval",
+    "summary": "Maestros Electronics & Telecommunications Systems Ltd approved the incorporation of a wholly owned subsidiary through an investment of up to Rs. 1,00,00,000 in one or more tranches.",
+    "ticker": "METSL",
+    "type_id": "15",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66991c83f9844dead3e22de2"
+    },
+    "attachment_name": "1fccff13-6af3-4b1d-a5b0-00dd6fe577e9.pdf",
+    "company_id": "44bfc342594f43c9b0f9",
+    "company_name": "JBF INDUSTRIES LTD.",
+    "created_at": {
+      "date": "2024-07-18T13:45:37.383Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:38:20.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/1fccff13-6af3-4b1d-a5b0-00dd6fe577e9.pdf",
+    "sub_type": "Certification Submission",
+    "summary": "JBF Industries Ltd. provided certification under Regulation 74(5) for dematerialization of securities for the quarter ended 30th June, 2024.",
+    "ticker": "JBFIND",
+    "type_id": "26",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66991c83f9844dead3e22dde"
+    },
+    "attachment_name": "758513b1-c31e-4c73-a447-11c81dc1f990.pdf",
+    "company_id": "b5f8f30d5881472e9e37",
+    "company_name": "STANDARD CAPITAL MARKETS LTD.",
+    "created_at": {
+      "date": "2024-07-18T13:45:38.003Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:41:23.000Z"
+    },
+    "sentiment": "positive",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/758513b1-c31e-4c73-a447-11c81dc1f990.pdf",
+    "sub_type": "Investment Announcement",
+    "summary": "Standard Capital Markets Limited announced a strategic investment in Paisalo Digital Limited to promote financial inclusion in rural India.",
+    "ticker": "STANCAP",
+    "type_id": "15",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66991c82f9844dead3e22da8"
+    },
+    "attachment_name": "b707d4a2-14b4-41e8-a6ed-68c5689827f8.pdf",
+    "company_id": "8c12949c38df438f8cec",
+    "company_name": "Jamshri Realty Ltd-",
+    "created_at": {
+      "date": "2024-07-18T13:45:36.600Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:37:58.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/b707d4a2-14b4-41e8-a6ed-68c5689827f8.pdf",
+    "sub_type": "Director Appointment",
+    "summary": "Jamshri Realty Ltd appointed Shri Anand Dalal as an Independent Director from AGM on 15th July 2024.",
+    "ticker": "JAMSHRI",
+    "type_id": "6",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66991c81f9844dead3e22d97"
+    },
+    "attachment_name": "03e97053-cbcf-4886-9d18-36bafa59a6f0.pdf",
+    "company_id": "e62fec44117844fd918a",
+    "company_name": "SUBHASH SILK MILLS LTD.",
+    "created_at": {
+      "date": "2024-07-18T13:45:36.223Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:37:15.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/03e97053-cbcf-4886-9d18-36bafa59a6f0.pdf",
+    "sub_type": "Submission of Certificate",
+    "summary": "Subhash Silk Mills Ltd. submitted a certificate under Regulation 74(5) of SEBI (DP) Regulations, 2018 for the quarter ended June 30, 2024.",
+    "ticker": "SUBSM",
+    "type_id": "26",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66991c81f9844dead3e22d79"
+    },
+    "attachment_name": "5befa2c8-dd6b-4533-b37b-0d9107a6e64f.pdf",
+    "company_id": "b42f8f829dff4e1697a4",
+    "company_name": "CONTROL PRINT LTD.-",
+    "created_at": {
+      "date": "2024-07-18T13:45:35.709Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:37:13.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/5befa2c8-dd6b-4533-b37b-0d9107a6e64f.pdf",
+    "sub_type": "Newspaper Advertisement Publication",
+    "summary": "Control Print Ltd. published a newspaper advertisement regarding transfer of equity shares to IEPF Suspense Account due to unpaid dividends for 7 consecutive years or more.",
+    "ticker": "CONTROLPR",
+    "type_id": "13",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66991c80f9844dead3e22d59"
+    },
+    "attachment_name": "82d56d93-90cd-4d1f-9200-dd5ed9a07191.pdf",
+    "company_id": "e0de715b77ae4c22b0bd",
+    "company_name": "Shriram Finance Ltd",
+    "created_at": {
+      "date": "2024-07-18T13:45:34.766Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:35:51.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/82d56d93-90cd-4d1f-9200-dd5ed9a07191.pdf",
+    "sub_type": "Security Confirmation",
+    "summary": "Shriram Finance Ltd has confirmed the listing of securities on stock exchanges and the cancellation of physical shares after dematerialization.",
+    "ticker": "SHRIRAMFIN",
+    "type_id": "26",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66991c80f9844dead3e22d42"
+    },
+    "attachment_name": "062c5bb0-54cb-4a1a-adde-412b7fde0707.pdf",
+    "company_id": "44bdb6d939214c7bbca1",
+    "company_name": "Sofcom Systems Ltd",
+    "created_at": {
+      "date": "2024-07-18T13:45:33.678Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:35:44.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/062c5bb0-54cb-4a1a-adde-412b7fde0707.pdf",
+    "sub_type": "Financial and Management Changes",
+    "summary": "Sofcom Systems Ltd submitted Standalone Audited Financial Results and declared Unmodified Opinion on the Audit Report for the year ended March 31, 2024. Resignation of Ms. Alka Rajendra Mehta, Director and reconstitution of committees of the Board of Directors were approved.",
+    "ticker": "SOFCOM",
+    "type_id": "6",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66991c7ff9844dead3e22d27"
+    },
+    "attachment_name": "16110ed4-b33f-4ec6-b484-414499775e1c.pdf",
+    "company_id": "44bdb6d939214c7bbca1",
+    "company_name": "Sofcom Systems Ltd",
+    "created_at": {
+      "date": "2024-07-18T13:45:33.490Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:33:23.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/16110ed4-b33f-4ec6-b484-414499775e1c.pdf",
+    "sub_type": "Board Meeting Outcome",
+    "summary": "Sofcom Systems Ltd. announced the revised outcome of the board meeting which included declaration of unmodified opinion on financial results, confirmation of not being a large corporate, resignation of a director, and reconstitution of board committees.",
+    "ticker": "SOFCOM",
+    "type_id": "6",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66991c7ef9844dead3e22d0b"
+    },
+    "attachment_name": "ff08b39b-2b17-4ebe-87d3-33daac911c31.pdf",
+    "company_id": "zo3ottoa1oj1uase5d82",
+    "company_name": "Vodafone Idea Ltd",
+    "created_at": {
+      "date": "2024-07-18T13:45:31.606Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:31:26.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/ff08b39b-2b17-4ebe-87d3-33daac911c31.pdf",
+    "sub_type": "Equity Shares Allotment",
+    "summary": "Vodafone Idea Ltd allotted 41,52,02,701 equity shares to Nokia Solutions and Networks India Private Limited and Ericsson India Private Limited at an issue price of Rs. 14.80 per equity share, raising Rs. 615 crores.",
+    "ticker": "IDEA",
+    "type_id": "23",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66991c7df9844dead3e22ce0"
+    },
+    "attachment_name": "6c85d05f-a15a-4caf-824d-942c632e0391.pdf",
+    "company_id": "zgud8i4ti09x3zha8wlz",
+    "company_name": "FEDERAL-MOGUL GOETZE (INDIA) LTD.",
+    "created_at": {
+      "date": "2024-07-18T13:45:31.642Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:32:39.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/6c85d05f-a15a-4caf-824d-942c632e0391.pdf",
+    "sub_type": "Advertisement Publication",
+    "summary": "FEDERAL-MOGUL GOETZE (INDIA) LTD. published an advertisement for its 69th AGM in Financial Express and Jansatta newspapers.",
+    "ticker": "FMGOETZE",
+    "type_id": "18",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66991c7df9844dead3e22cd4"
+    },
+    "attachment_name": "d6156787-c7e4-4011-82fb-ca16ab050d3b.pdf",
+    "company_id": "gqApJMqL8B",
+    "company_name": "PRUDENTIAL SUGAR CORPORATION LTD.",
+    "created_at": {
+      "date": "2024-07-18T13:45:31.639Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:32:10.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/d6156787-c7e4-4011-82fb-ca16ab050d3b.pdf",
+    "sub_type": "Audit Impact",
+    "summary": "PRUDENTIAL SUGAR CORPORATION LTD. reports impact of audit qualification.",
+    "ticker": "PRUDMOULI",
+    "type_id": "26",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66991905f9844dead3e1bcf1"
+    },
+    "attachment_name": "13b991fa-49f2-44be-ba1d-ef15984b45bd.pdf",
+    "company_id": "d1469f28da7d432e93d6",
+    "company_name": "NARENDRA PROPERTIES LTD.",
+    "created_at": {
+      "date": "2024-07-18T13:30:44.098Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:29:35.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/13b991fa-49f2-44be-ba1d-ef15984b45bd.pdf",
+    "sub_type": "Certificate Submission",
+    "summary": "NARENDRA PROPERTIES LTD. confirms securities received for dematerialization have been canceled and substituted in records.",
+    "ticker": "NARPROP",
+    "type_id": "15",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66991905f9844dead3e1bce9"
+    },
+    "attachment_name": "35aa52e5-78aa-4396-a663-90b6f1ba66ee.pdf",
+    "company_id": "4t5ydhd7y9gjbauqu8ik",
+    "company_name": "DHANUKA AGRITECH LTD.",
+    "created_at": {
+      "date": "2024-07-18T13:30:43.610Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:28:32.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/35aa52e5-78aa-4396-a663-90b6f1ba66ee.pdf",
+    "sub_type": "Credit Rating",
+    "summary": "Dhanuka Agritech Limiteds bank facilities assigned ratings of CARE AA; Stable / CARE A1+ by CARE Ratings.",
+    "ticker": "DHANUKA",
+    "type_id": "11",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66991904f9844dead3e1bcb9"
+    },
+    "attachment_name": "b2f075b3-859b-40be-9f4a-e143416d795b.pdf",
+    "company_id": "04fbcdfba740484aaf1a",
+    "company_name": "R J Bio-Tech Ltd",
+    "created_at": {
+      "date": "2024-07-18T13:30:42.315Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:27:50.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/b2f075b3-859b-40be-9f4a-e143416d795b.pdf",
+    "sub_type": "Liquidators Meeting",
+    "summary": "R J Bio-Tech Limited will have a Liquidators Meeting on July 19th, 2024 to discuss financial results and other business.",
+    "ticker": "RJBIOTECH",
+    "type_id": "23",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66991904f9844dead3e1bcaf"
+    },
+    "attachment_name": "58ae470d-7e47-4822-89bb-34bcf74c5f98.pdf",
+    "company_id": "2625dffb49c0413eba4a",
+    "company_name": "KARNATAKA BANK LTD.",
+    "created_at": {
+      "date": "2024-07-18T13:30:42.439Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:28:27.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/58ae470d-7e47-4822-89bb-34bcf74c5f98.pdf",
+    "sub_type": "Promotion Announcement",
+    "summary": "Promotion of Mrs. Sumana Ghate from Deputy General Manager to General Manager of Inspection and I.S. Audit Department.",
+    "ticker": "KTKBANK",
+    "type_id": "6",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66991903f9844dead3e1bc99"
+    },
+    "attachment_name": "06ccbd02-1193-463e-a1ed-40a94835f429.pdf",
+    "company_id": "5b761a88514044438dcc",
+    "company_name": "Virinchi Ltd",
+    "created_at": {
+      "date": "2024-07-18T13:30:42.190Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:27:10.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/06ccbd02-1193-463e-a1ed-40a94835f429.pdf",
+    "sub_type": "Board Meeting",
+    "summary": "Virinchi Ltd. Board Meeting postponed to July 22, 2024 for approval of financial results.",
+    "ticker": "VIRINCHI",
+    "type_id": "19",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66991902f9844dead3e1bc7a"
+    },
+    "attachment_name": "ca05b4fb-9fbe-44c8-a3d0-f5a69de9d26c.pdf",
+    "company_id": "de574cec008649289418",
+    "company_name": "MELSTAR INFORMATION TECHNOLOGIES LTD.",
+    "created_at": {
+      "date": "2024-07-18T13:30:40.758Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:26:28.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/ca05b4fb-9fbe-44c8-a3d0-f5a69de9d26c.pdf",
+    "sub_type": "Compliance Certificate Submission",
+    "summary": "Melstar Information Technologies Ltd. submitted a compliance certificate under Regulation 74(5) of SEBI (DP) Regulations, 2018 for the quarter ended June 30, 2024.",
+    "ticker": "MELSTAR",
+    "type_id": "26",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66991902f9844dead3e1bc6d"
+    },
+    "attachment_name": "98f8c313-5870-44e3-a7e6-a0fb092c96e5.pdf",
+    "company_id": "870a8ab553af4c5ea8d5",
+    "company_name": "LANCOR HOLDINGS LTD.",
+    "created_at": {
+      "date": "2024-07-18T13:30:40.336Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:25:40.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/98f8c313-5870-44e3-a7e6-a0fb092c96e5.pdf",
+    "sub_type": "Allotment",
+    "summary": "LANCOR HOLDINGS LTD. approved the allotment of 551 Non-Convertible Debentures aggregating to Rs. 5,51,00,000 on private placement basis with interest rate of 16.5%.",
+    "ticker": "LANCORHOL",
+    "type_id": "15",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66991902f9844dead3e1bc61"
+    },
+    "attachment_name": "5a775eae-73e1-4e16-9129-d9615af9bc3b.pdf",
+    "company_id": "aa11b24cdeba43bbb675",
+    "company_name": "ASHISH POLYPLAST LTD.",
+    "created_at": {
+      "date": "2024-07-18T13:30:40.471Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:25:46.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/5a775eae-73e1-4e16-9129-d9615af9bc3b.pdf",
+    "sub_type": "Appointment of Company Secretary",
+    "summary": "ASHISH POLYPLAST LTD. appointed Ms. Dipti Sharma as Company Secretary and Compliance Officer on July 18, 2024.",
+    "ticker": "ASHISHPO",
+    "type_id": "6",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66991900f9844dead3e1bc1d"
+    },
+    "attachment_name": "cddb4a2d-d009-41fe-a3b5-c1c5c69522b7.pdf",
+    "company_id": "t2durdzoli12b9g482xv",
+    "company_name": "Dixon Technologies (India) Ltd",
+    "created_at": {
+      "date": "2024-07-18T13:30:38.765Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:24:54.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/cddb4a2d-d009-41fe-a3b5-c1c5c69522b7.pdf",
+    "sub_type": "Acquisition Approval",
+    "summary": "CCI approved Dixon Technologies acquisition of majority stake in Ismartu India Private Limited.",
+    "ticker": "DIXON",
+    "type_id": "1",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66991900f9844dead3e1bc08"
+    },
+    "attachment_name": "82e4d960-ef7c-4d46-932e-7dfeb24e712c.pdf",
+    "company_id": "27888817ac344db796eb",
+    "company_name": "KPI Green Energy Ltd",
+    "created_at": {
+      "date": "2024-07-18T13:30:39.100Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:25:10.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/82e4d960-ef7c-4d46-932e-7dfeb24e712c.pdf",
+    "sub_type": "Investor Meeting",
+    "summary": "KPI Green Energy Ltd to interact with institutional investor on July 23, 2024 via virtual meeting.",
+    "ticker": "KPIGREEN",
+    "type_id": "18",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66991900f9844dead3e1bbf4"
+    },
+    "attachment_name": "7bbf166a-b4d2-4d19-9e27-74da564472c8.pdf",
+    "company_id": "b5b33b8ccbe948b18d29",
+    "company_name": "USHAKIRAN FINANCE LTD.",
+    "created_at": {
+      "date": "2024-07-18T13:30:38.692Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:24:16.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/7bbf166a-b4d2-4d19-9e27-74da564472c8.pdf",
+    "sub_type": "Website Undertaking",
+    "summary": "Ushakiran Finance Ltd. submitted an undertaking confirming the functionality of their website for the quarter ended 30th June, 2024 as per SEBI regulations.",
+    "ticker": "USHAKIRA",
+    "type_id": "26",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "669918fff9844dead3e1bbc0"
+    },
+    "attachment_name": "138269b5-0638-42a0-bfa8-f4f4712a436e.pdf",
+    "company_id": "81c74b11435440e68aee",
+    "company_name": "INDIA RADIATORS LTD.",
+    "created_at": {
+      "date": "2024-07-18T13:30:37.197Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:23:34.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/138269b5-0638-42a0-bfa8-f4f4712a436e.pdf",
+    "sub_type": "Reclassification Request",
+    "summary": "India Radiators Ltd. applied for reclassification of promoters to the \"Public\" category with Mercantile Ventures Limited as the new Promoter.",
+    "ticker": "INRADIA",
+    "type_id": "6",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "669918fef9844dead3e1bbb3"
+    },
+    "attachment_name": "03f77360-0fa6-4089-8d5a-28a99758c2f7.pdf",
+    "company_id": "515e64fdf8e24268af2e",
+    "company_name": "Infobeans Technologies Ltd",
+    "created_at": {
+      "date": "2024-07-18T13:30:37.307Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:23:44.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/03f77360-0fa6-4089-8d5a-28a99758c2f7.pdf",
+    "sub_type": "Earnings Call",
+    "summary": "Earnings call scheduled for July 23, 2024 for quarter ended June 30, 2024.",
+    "ticker": "INFOBEAN",
+    "type_id": "18",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "669918fef9844dead3e1bba8"
+    },
+    "attachment_name": "7d388cba-ce41-479b-b5cb-8ec876972ab9.pdf",
+    "company_id": "ba9512ecec674075810a",
+    "company_name": "YOGI SUNG-WON (INDIA) LTD.",
+    "created_at": {
+      "date": "2024-07-18T13:30:36.903Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:23:17.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/7d388cba-ce41-479b-b5cb-8ec876972ab9.pdf",
+    "sub_type": "Certificate Submission",
+    "summary": "YOGI Sung-Won (India) Ltd. provided a certificate under Regulation 74(5) of SEBI (DP) Regulations, 2018 for the quarter ended June 30, 2024.",
+    "ticker": "YOGISUNG",
+    "type_id": "20",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "669918fdf9844dead3e1bb66"
+    },
+    "attachment_name": "2efa91a2-e7e8-496b-b003-038369fde383.pdf",
+    "company_id": "9ccf5d0cdaf74212bc99",
+    "company_name": "WINSOME BREWERIES LTD.",
+    "created_at": {
+      "date": "2024-07-18T13:30:35.486Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:22:29.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/2efa91a2-e7e8-496b-b003-038369fde383.pdf",
+    "sub_type": "Certificate Submission",
+    "summary": "Winsome Breweries enclosed certificate under Reg. 74 (5) of SEBI Regulations for the quarter ended June 30, 2024",
+    "ticker": "WINSOMBR",
+    "type_id": "15",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "669918fdf9844dead3e1bb59"
+    },
+    "attachment_name": "aa545a35-f770-4589-a865-cbdfd68b40c8.pdf",
+    "company_id": "w8GDijfDXA9OEBB4o8Zq1",
+    "company_name": "Onesource Ideas Venture Ltd",
+    "created_at": {
+      "date": "2024-07-18T13:30:35.281Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:21:14.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/aa545a35-f770-4589-a865-cbdfd68b40c8.pdf",
+    "sub_type": "Equity Shares Split and Capital Increase",
+    "summary": "Company announced splitting of equity shares, increasing authorized share capital, shifting of registered office, change of name, alteration of main object & MOA, appointment of director, appointment of scrutunizer and secretarial auditors.",
+    "ticker": "OIVL",
+    "type_id": "7",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "669918fcf9844dead3e1bb45"
+    },
+    "attachment_name": "0d49fffa-a6ba-41cd-8f4e-1043ab79667c.pdf",
+    "company_id": "e948dcc2b0bb4e7bb1ad",
+    "company_name": "GRAPHITE INDIA LTD.",
+    "created_at": {
+      "date": "2024-07-18T13:30:34.959Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:20:59.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/0d49fffa-a6ba-41cd-8f4e-1043ab79667c.pdf",
+    "sub_type": "Newspaper Advertisement",
+    "summary": "GRAPHITE INDIA LTD. published a newspaper advertisement regarding the transfer of equity shares to IEPF Authority.",
+    "ticker": "GRAPHITE",
+    "type_id": "16",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "669918fcf9844dead3e1bb3d"
+    },
+    "attachment_name": "RICHA_18072024185954_Contract_Signed.pdf",
+    "company_id": "0f603a86670647009f94",
+    "company_name": "Richa Info Systems Limited",
+    "created_at": {
+      "date": "2024-07-18T13:30:34.067Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:29:54.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/RICHA_18072024185954_Contract_Signed.pdf",
+    "sub_type": "OEM Contract Announcement",
+    "summary": "Richa Info Systems Limited signed an OEM contract with Shenzhen Hitevision Technology Co. Ltd. to produce and supply Interactive Flat Panel Displays with a minimum commitment of 6000 units for 2024-2025.",
+    "ticker": "RICHA",
+    "type_id": "8",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "669918fcf9844dead3e1bb2d"
+    },
+    "attachment_name": "ELGIRUBCO_18072024185952_NSE_NEWSPAPER_ADV_NOTICE_TO_AGM.pdf",
+    "company_id": "e9a6a033981b4184a63a",
+    "company_name": "Elgi Rubber Company Limited",
+    "created_at": {
+      "date": "2024-07-18T13:30:33.962Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:29:52.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/ELGIRUBCO_18072024185952_NSE_NEWSPAPER_ADV_NOTICE_TO_AGM.pdf",
+    "sub_type": "Newspaper Publication",
+    "summary": "Elgi Rubber Company Limited has published a newspaper notice about their 18th Annual General Meeting, e-voting information, and book closure.",
+    "ticker": "ELGIRUBCO",
+    "type_id": "19",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "669918fbf9844dead3e1bb0a"
+    },
+    "attachment_name": "f2bd0166-23a8-4299-a8fe-a91e42c3d1a5.pdf",
+    "company_id": "p8up6gvhgh1hg2uodvuw",
+    "company_name": "Polycab India Ltd",
+    "created_at": {
+      "date": "2024-07-18T13:30:33.248Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:18:22.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/f2bd0166-23a8-4299-a8fe-a91e42c3d1a5.pdf",
+    "sub_type": "Code Amendments and Committee Reconstitution",
+    "summary": "Polycab India Ltd approved amendments to the Code of Fair Disclosure and reconstituted the Audit Committee and Nomination & Remuneration Committee.",
+    "ticker": "POLYCAB",
+    "type_id": "3",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "669918fbf9844dead3e1bafe"
+    },
+    "attachment_name": "8f7c6528-1cb5-478c-850e-fd3bbe0217f0.pdf",
+    "company_id": "3d10aeef2bf74c788e59",
+    "company_name": "Technopack Polymers Ltd",
+    "created_at": {
+      "date": "2024-07-18T13:30:33.378Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:18:38.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/8f7c6528-1cb5-478c-850e-fd3bbe0217f0.pdf",
+    "sub_type": "Board Committees Change",
+    "summary": "Technopack Polymers Ltd changed the composition of Board Committees.",
+    "ticker": "TECHNOPACK",
+    "type_id": "6",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "669918faf9844dead3e1bae5"
+    },
+    "attachment_name": "e75de97d-80d9-4401-ad5a-9a48ac8ef6f5.pdf",
+    "company_id": "KAj0Zfm6cjMewdEgNz8Ds",
+    "company_name": "Wherrelz IT Solutions Ltd",
+    "created_at": {
+      "date": "2024-07-18T13:30:33.086Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:17:15.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/e75de97d-80d9-4401-ad5a-9a48ac8ef6f5.pdf",
+    "sub_type": "Resignation of Director",
+    "summary": "Mr. Navin Mukesh Punjabi resigned as Independent Director on July 12, 2024 due to personal reasons.",
+    "ticker": "WITS",
+    "type_id": "6",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "669918faf9844dead3e1baba"
+    },
+    "attachment_name": "SHUBHLAXMI_18072024184432_Clarificationletter.pdf",
+    "company_id": "6d47a6e4fbc94a37bf86",
+    "company_name": "Shubhlaxmi Jewel Art Limited",
+    "created_at": {
+      "date": "2024-07-18T13:30:31.974Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:14:32.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/SHUBHLAXMI_18072024184432_Clarificationletter.pdf",
+    "sub_type": "Resignation Announcement",
+    "summary": "Resignation of Mrs. Apexa Sanjaykumar Vyas as Non-Executive Independent Director effective April 1, 2024.",
+    "ticker": "SHUBHLAXMI",
+    "type_id": "6",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "669918f9f9844dead3e1baae"
+    },
+    "attachment_name": "AMIABLE_18072024184920_RecoReportSigned.pdf",
+    "company_id": "51594550fccc41f5b5f7",
+    "company_name": "Amiable Logistics (India) Limited",
+    "created_at": {
+      "date": "2024-07-18T13:30:31.983Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:19:20.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/AMIABLE_18072024184920_RecoReportSigned.pdf",
+    "sub_type": "Share Capital Audit Report",
+    "summary": "Amiable Logistics (India) Limited provided a Share Capital Audit Report for the quarter ended on June 30, 2024.",
+    "ticker": "AMIABLE",
+    "type_id": "7",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "669918f9f9844dead3e1ba98"
+    },
+    "attachment_name": "88b24ddd-7ae2-4571-88e4-174714571cea.pdf",
+    "company_id": "662a232200a748f9b1a9",
+    "company_name": "INDO EURO INDCHEM LTD.",
+    "created_at": {
+      "date": "2024-07-18T13:30:31.430Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:17:01.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/88b24ddd-7ae2-4571-88e4-174714571cea.pdf",
+    "sub_type": "Compliance Certificate",
+    "summary": "Certificate of compliance with SEBI regulations regarding dematerialisation of securities for the quarter ended June 30, 2024.",
+    "ticker": "INDOEURO",
+    "type_id": "26",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "669918f9f9844dead3e1ba8e"
+    },
+    "attachment_name": "d7baf66b-0f66-4c3e-aa63-6be73c9f2101.pdf",
+    "company_id": "orsq53sxYiADgNsazaVBm",
+    "company_name": "Oceanic Foods Ltd",
+    "created_at": {
+      "date": "2024-07-18T13:30:31.429Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:17:05.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/d7baf66b-0f66-4c3e-aa63-6be73c9f2101.pdf",
+    "sub_type": "Shareholding Transfer",
+    "summary": "Oceanic Foods Ltd announces transfer of 16.80% shareholding from Vindorai D Patel HUF to Ajesh Vinodrai Patel on 18/10/2023.",
+    "ticker": "OCEANIC",
+    "type_id": "6",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "669918f9f9844dead3e1ba7a"
+    },
+    "attachment_name": "cf6a5958-1487-44aa-b200-29cc56c6f065.pdf",
+    "company_id": "2fd5f148882e42be8b82",
+    "company_name": "BPL LTD.",
+    "created_at": {
+      "date": "2024-07-18T13:30:31.392Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:16:38.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/cf6a5958-1487-44aa-b200-29cc56c6f065.pdf",
+    "sub_type": "Resignation Announcement",
+    "summary": "Resignation of Company Secretary and Compliance Officer, Ms. Deepika N Bhandiwad, to pursue other opportunities.",
+    "ticker": "BPL",
+    "type_id": "6",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699158df9844dead3e150b7"
+    },
+    "attachment_name": "35a9522b-a071-4113-ba7e-6b0f3a42891e.pdf",
+    "company_id": "8e50bc1a33ad465da670",
+    "company_name": "Styrenix Performance Materials Ltd",
+    "created_at": {
+      "date": "2024-07-18T13:15:42.022Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:13:52.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/35a9522b-a071-4113-ba7e-6b0f3a42891e.pdf",
+    "sub_type": "Publication Notice",
+    "summary": "Styrenix Performance Materials Ltd published newspapers notice for AGM through VC/OAVM and related matters for shareholders in Gujarat.",
+    "ticker": "STYRENIX",
+    "type_id": "4",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66991582f9844dead3e14f16"
+    },
+    "attachment_name": "6f1e5f0e-fc56-463d-a501-fff1bc3482fc.pdf",
+    "company_id": "b5b33b8ccbe948b18d29",
+    "company_name": "USHAKIRAN FINANCE LTD.",
+    "created_at": {
+      "date": "2024-07-18T13:15:43.728Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:15:27.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/6f1e5f0e-fc56-463d-a501-fff1bc3482fc.pdf",
+    "sub_type": "Submission of Compliance Report",
+    "summary": "Submission of Compliance Report on Investor Grievance for Quarter Ended 30th June, 2024",
+    "ticker": "USHAKIRA",
+    "type_id": "19",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "66991582f9844dead3e14f0c"
+    },
+    "attachment_name": "ea9039cd-100f-47a4-97ba-a344cb09a8ab.pdf",
+    "company_id": "KAj0Zfm6cjMewdEgNz8Ds",
+    "company_name": "Wherrelz IT Solutions Ltd",
+    "created_at": {
+      "date": "2024-07-18T13:15:43.721Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:14:04.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/ea9039cd-100f-47a4-97ba-a344cb09a8ab.pdf",
+    "sub_type": "Resignation of Director",
+    "summary": "Mr. Navin Mukesh Punjabi resigned as Independent Director from Wherrelz IT Solutions Ltd.",
+    "ticker": "WITS",
+    "type_id": "6",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699157ff9844dead3e14ebc"
+    },
+    "attachment_name": "c2810517-6f1f-4a56-981c-856703d7422f.pdf",
+    "company_id": "507pb0hfytrtnfkegs5d",
+    "company_name": "CEAT LTD.",
+    "created_at": {
+      "date": "2024-07-18T13:15:41.150Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:10:58.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/c2810517-6f1f-4a56-981c-856703d7422f.pdf",
+    "sub_type": "Financial Results Presentation",
+    "summary": "CEAT Ltd announced unaudited financial results for Q1 FY24-25 with consolidated revenue of Rs. 3,192.8 crore and EBITDA of Rs. 388.2 crore, indicating a growth of 6.7% Q-o-Q and 8.8% Y-o-Y.",
+    "ticker": "CEATLTD",
+    "type_id": "19",
+    "year": "2024"
+  },
+  {
+    "_id": {
+      "oid": "6699157ff9844dead3e14eb4"
+    },
+    "attachment_name": "53dca814-3143-45f1-9dc4-817143c08b6b.pdf",
+    "company_id": "nghg789m941no0tdx5f5",
+    "company_name": "Dhampur Bio Organics Ltd",
+    "created_at": {
+      "date": "2024-07-18T13:15:41.876Z"
+    },
+    "created_by": "AWS_lambda_function",
+    "published_time": {
+      "date": "2024-07-18T13:13:08.000Z"
+    },
+    "sentiment": "neutral",
+    "source_url": "https://si-bse-announcements-attachments.s3.amazonaws.com/53dca814-3143-45f1-9dc4-817143c08b6b.pdf",
+    "sub_type": "Change in Management",
+    "summary": "Dhampur Bio Organics Ltd appointed Mr. Sudeep Banerjee as President - Human Resources effective July 18, 2024.",
+    "ticker": "DBOL",
+    "type_id": "6",
+    "year": "2024"
+  }
+]
