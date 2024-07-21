@@ -27,11 +27,11 @@ const Pagination: FC<PaginationProps> = ({
   const pages = getPageNumbers();
 
   return (
-    <div className="flex justify-center items-center space-x-2">
+    <div className="flex justify-center items-center mt-1 space-x-2">
       <button
         onClick={() => onPageChange(currentPage - 1)}
         disabled={currentPage === 1}
-        className="p-2 mx-1 bg-blue-500 text-white rounded-lg hover:bg-blue-600 disabled:bg-gray-400"
+        className="bg-white text-white rounded-lg"
       >
         <Image
           src={"/announcements/dropdown-open.svg"}
@@ -47,8 +47,8 @@ const Pagination: FC<PaginationProps> = ({
           onClick={() => onPageChange(page)}
           className={`px-4 py-2 mx-1 rounded-lg ${
             page === currentPage
-              ? "bg-blue-700 text-white"
-              : "bg-blue-500 text-white hover:bg-blue-600"
+              ? "bg-neutral-300 text-neutral-700 border rounded-md border-[1px]"
+              : "bg-neutral-100 text-neutral-700 hover:bg-neutral-200"
           }`}
         >
           {page}
@@ -57,7 +57,7 @@ const Pagination: FC<PaginationProps> = ({
       <button
         onClick={() => onPageChange(currentPage + 1)}
         disabled={currentPage === totalPages}
-        className="bg-neutral-100 text-white rounded-lg hover:bg-neutral-300 disabled:bg-gray-400"
+        className="bg-white text-white rounded-lg "
       >
         <Image
           src={"/announcements/dropdown-open.svg"}
