@@ -73,7 +73,7 @@ const TableData: React.FC<TableDataProps> = ({
       </div>
 
       <div className="flex flex-col items-center justify-center w-[151px] min-h-[80px] py-[10px] pl-[20px] gap-[10px] mr-[60px]">
-        <Button variant={"outline"} className="h-[32px]">
+        <Button variant={"outline"} className="h-[32px] dark:border-neutral-600">
           <a
             href={source_url}
             target="_blank"
