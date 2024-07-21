@@ -3,7 +3,6 @@
 import React from "react";
 import { Button } from "../ui/button";
 import Image from "next/image";
-import Link from "next/link";
 
 interface TableDataProps {
   company_name: string;

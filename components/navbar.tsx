@@ -28,11 +28,6 @@ const Navbar = () => {
   ];
 
   const [isOpen, setIsOpen] = useState(false);
-
-  const toggleSidebar = () => {
-    setIsOpen(!isOpen);
-  };
-
   return (
     <nav
       className={`absolute z-10 h-screen bg-neutral-100 transition-width duration-200 flex border-r-[.5px] dark:border-neutral-700
