@@ -1,5 +1,6 @@
-import Image from "next/image";
 import { FC, useState } from "react";
+import DropdownHeading from "@/components/ui/dropdown-heading";
+import DropdownOption from "@/components/ui/dropdown-option";
 
 interface SentimentsDropdownProps {
   sentiments: string[];
@@ -20,52 +21,17 @@ const SentimentsDropdown: FC<SentimentsDropdownProps> = ({
 
   return (
     <div className="">
-      <button
-        type="button"
-        className="w-[254px] h-[70px] p-[10px] px-[30px]"
-        onClick={toggleDropdown}
-      >
-        <div className="flex gap-[10px] w-[87px] h-[24px]">
-          {isDropdownOpen ? (
-            <Image
-              src={"/announcements/dropdown-close.svg"}
-              width={10}
-              height={10}
-              alt="dropdown"
-            />
-          ) : (
-            <Image
-              src={"/announcements/dropdown-open.svg"}
-              width={10}
-              height={10}
-              alt="dropdown"
-            />
-          )}
-          <span className="font-medium">Sentiment</span>
-        </div>
-      </button>
-
+      <DropdownHeading isOpen={isDropdownOpen} toggleDropdown={toggleDropdown} text="Sentiment" />
       {isDropdownOpen && (
         <div>
           {sentiments.map((sentiment) => (
-            <div
+            <DropdownOption
               key={sentiment}
-              className="flex items-center justify-between h-[40px]"
-            >
-              <label
-                htmlFor={`sentiment-${sentiment}`}
-                className="text-neutral-400 font-normal text-[12px] leading-6 ml-[50px]"
-              >
-                {sentiment}
-              </label>
-              <input
-                type="checkbox"
-                id={`sentiment-${sentiment}`}
-                checked={selectedSentiments.includes(sentiment)}
-                onChange={() => onSentimentChange(sentiment)}
-                className="mr-[30px]"
-              />
-            </div>
+              id={`sentiment-${sentiment}`}
+              label={sentiment}
+              checked={selectedSentiments.includes(sentiment)}
+              onChange={() => onSentimentChange(sentiment)}
+            />
           ))}
         </div>
       )}
