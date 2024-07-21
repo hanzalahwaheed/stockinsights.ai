@@ -164,9 +164,6 @@ const Announcements: React.FC<AnnouncementProps> = ({
       .filter((param) => param) // Remove empty parameters
       .join("&"); // Join with '&'
 
-    console.log("QUERY", query);
-    console.log("filteredData", filteredData);
-
     // Fetch data from the API with query parameters
     const response = await fetch(
       `${process.env.NEXT_PUBLIC_BASE_URL}/api?${query}`,
@@ -197,9 +194,7 @@ const Announcements: React.FC<AnnouncementProps> = ({
       prev.includes(sentiment)
         ? prev.filter((s) => s !== sentiment)
         : [...prev, sentiment]
-    );
-    console.log(selectedSentiments);
-    
+    );    
   };
 
   const handleTypeChange = (type: string) => {

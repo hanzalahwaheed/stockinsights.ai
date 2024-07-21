@@ -9,14 +9,12 @@ export async function POST(req: NextRequest) {
 
     // Get query parameters
     const { searchParams } = new URL(req.url);
-    console.log(searchParams);
     
     // Extract filter values and page number
     const sentiments = searchParams.get("sentiments")?.split(",") || [];
     const types = searchParams.get("types")?.split(",") || [];
     const page = Number(searchParams.get("page")) || 1;
 
-    console.log("page", page);
 
     // Filter the data based on sentiments
     let filteredData = data;
@@ -39,12 +37,10 @@ export async function POST(req: NextRequest) {
       return dateB - dateA;
     });
 
-    console.log("filtered data", filteredData);
 
     // Calculate pagination
     const itemsPerPage = 10;
     const totalItems = filteredData.length;
-    console.log("totalItems", totalItems);
     const totalPages = Math.ceil(totalItems / itemsPerPage);
     const startIndex = (page - 1) * itemsPerPage;
     const paginatedData = filteredData.slice(

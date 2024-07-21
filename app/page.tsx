@@ -10,7 +10,6 @@ const Home = async () => {
   const itemsPerPage = 10;
   const totalItems = dataFile.length;
   const totalPages = Math.ceil(totalItems / itemsPerPage);
-  console.log("totalItems", totalItems);
 
   return (
     <div className="absolute w-full left-[65px]">
