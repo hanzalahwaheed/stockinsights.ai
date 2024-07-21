@@ -17,7 +17,8 @@ export async function GET(req: NextRequest) {
     const { searchParams } = new URL(req.url);
 
     // Extract filter values and page number
-    const sentiments = searchParams.get("sentiments")?.toLowerCase()?.split(",") || [];
+    const sentiments = searchParams.get("sentiments")?.split(",") || [];
+
     const types = searchParams.get("types")?.split(",") || [];
     const page = Number(searchParams.get("page")) || 1;
 
@@ -25,14 +26,14 @@ export async function GET(req: NextRequest) {
     let filteredData = data;
 
     if (sentiments.length > 0) {
-      filteredData = filteredData.filter(item =>
-        sentiments.includes(item.sentiment.toLowerCase())
+      filteredData = filteredData.filter((item) =>
+        sentiments.includes(item.sentiment)
       );
     }
 
     // Filter the data based on types
     if (types.length > 0) {
-      filteredData = filteredData.filter(item =>
+      filteredData = filteredData.filter((item) =>
         types.includes(item.type_id)
       );
     }
@@ -61,4 +62,3 @@ export async function GET(req: NextRequest) {
     return new NextResponse("Internal Server Error", { status: 500 });
   }
 }
-

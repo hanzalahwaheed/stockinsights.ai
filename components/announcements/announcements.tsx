@@ -32,8 +32,10 @@ const Announcements: React.FC<AnnouncementProps> = ({
     // Build query parameters conditionally
     const sentimentQuery =
       selectedSentiments.length > 0
-        ? `sentiments=${selectedSentiments.join(",")}`
-        : "";
+        ? `sentiments=${selectedSentiments
+            .map((sentiment) => sentiment.toLowerCase())
+            .join(",")}`
+        : "";        
     const typeQuery =
       selectedTypes.length > 0 ? `types=${selectedTypes.join(",")}` : "";
     const pageQuery = `page=${currentPage}`;
@@ -44,7 +46,9 @@ const Announcements: React.FC<AnnouncementProps> = ({
       .join("&"); // Join with '&'
 
     // Fetch data from the API with query parameters
-    const response = await fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/api?${query}`);
+    const response = await fetch(
+      `${process.env.NEXT_PUBLIC_BASE_URL}/api?${query}`
+    );
     const data = await response.json();
 
     // Update state with fetched data
