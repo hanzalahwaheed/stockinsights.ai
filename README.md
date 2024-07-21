@@ -2,10 +2,10 @@
 ## FrontEnd Assignment
 
 ## Features
-1. Announcements (sorted by date_paublished)
+1. Announcements (sorted by date_published)
 2. Pagification
 3. View Source Documents
-4. Filter:
+4. Filter By:
     - Sentiments
     - Announcement Types
 5. Animated Sidebar
