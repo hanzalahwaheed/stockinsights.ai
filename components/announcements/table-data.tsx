@@ -37,14 +37,14 @@ const TableData: React.FC<TableDataProps> = ({
   };
   const formattedDate = date.toLocaleDateString("en-Uk", options);
   return (
-    <div className="max-h-max w-full bg-white dark:bg-neutral-950 flex items-center border-b-[.5px] border-neutral-200 dark:border-neutral-700 hover:bg-slate-100 font-medium text-[14px]">
+    <div className="max-h-max w-full bg-white dark:bg-neutral-900 flex items-center border-b-[.5px] border-neutral-200 dark:border-neutral-700 hover:bg-slate-100 font-medium text-[14px]">
       <div className="w-[190px] min-h-[80px] py-[10px] pl-[60px] gap-[10px] flex items-center">
         {company_name && <p className="text-neutral-600 dark:text-neutral-200">{company_name}</p>}
       </div>
 
       <div className="flex items-center w-[250px] min-h-[80px] py-[10px] pl-[40px] gap-[10px] ">
         {announcement_type && (
-          <p className="flex items-center w-max h-[32px] p-[4px] px-[10px] gap-[10px] rounded-[4px] text-neutral-700 bg-neutral-100 border-[1px] border-neutral-400">
+          <p className="flex items-center w-max h-[32px] p-[4px] px-[10px] gap-[10px] rounded-[4px] text-neutral-700 bg-neutral-100 border-[1px] border-neutral-400 dark:text-neutral-400 dark:bg-neutral-800 dark:border-neutral-600">
             {announcement_type}
           </p>
         )}
@@ -52,7 +52,7 @@ const TableData: React.FC<TableDataProps> = ({
 
       <div className="flex-1 p-[10px] px-[20px] gap-[10px]">
         {sub_type && (
-          <p className="text-neutral-700 font-semibold py-1">{sub_type}</p>
+          <p className="text-neutral-700 font-semibold py-1 dark:text-neutral-200">{sub_type}</p>
         )}
         {summary && (
           <p className="text-neutral-400 leading-relaxed font-normal py-1">
@@ -89,7 +89,7 @@ const TableData: React.FC<TableDataProps> = ({
           </a>
         </Button>
         {formattedDate && (
-          <p className="text-neutral-600 font-medium text-[10px]">
+          <p className="text-neutral-600 dark:text-neutral-300 font-medium text-[10px]">
             {formattedDate}
           </p>
         )}

@@ -5,7 +5,7 @@ const AnnouncementsTopbar = () => {
   return (
     <div className="w-full min-h-[70px] bg-neutral-100 dark:bg-neutral-950 flex items-center justify-between border-b-[.5px] border-neutral-200 dark:border-neutral-700">
       <div className="flex">
-        <h1 className="text-[16px] font-semibold text-neutral-700 ml-[60px]">
+        <h1 className="text-[16px] font-semibold text-neutral-700 dark:text-neutral-300 ml-[60px]">
           Announcements Dashboard
         </h1>
         <div className="flex gap-[10px] ml-[14px]">
@@ -25,7 +25,7 @@ const AnnouncementsTopbar = () => {
           height={10}
           alt="AI-Powered"
         />
-        <p className="text-neutral-700 text-[12px]">Updates every 15 mins</p>
+        <p className="text-neutral-700 dark:text-neutral-200 text-[12px]">Updates every 15 mins</p>
       </div>
     </div>
   );
