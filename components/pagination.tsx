@@ -16,7 +16,8 @@ const Pagination: FC<PaginationProps> = ({
 }) => {
   const getPageNumbers = () => {
     const startPage = Math.max(1, currentPage - 1);
-    const endPage = Math.min(totalPages, startPage + 2);
+    // const endPage = Math.min(totalPages, startPage + 2);
+    const endPage = startPage + 2;
     const pages = [];
     for (let i = startPage; i <= endPage; i++) {
       pages.push(i);

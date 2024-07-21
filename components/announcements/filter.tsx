@@ -29,7 +29,7 @@ const Filter: FC<FilterProps> = ({
         selectedSentiments={selectedSentiments}
         onSentimentChange={onSentimentChange}
       />
-
+      
       <TypesDropdown
         types={types}
         selectedTypes={selectedTypes}

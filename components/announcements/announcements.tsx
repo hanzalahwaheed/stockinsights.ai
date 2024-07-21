@@ -147,21 +147,50 @@ const Announcements: React.FC<AnnouncementProps> = ({
   const [filteredData, setFilteredData] = useState<DataItem[]>(initialData);
   const [totalPages, setTotalPages] = useState<number>(initialTotalPages);
 
-  const fetchData = async () => {
-    const data = await fetchDataAnnouncements(
-      selectedSentiments,
-      selectedTypes,
-      currentPage
+  const fetchData = async (initialData: DataItem[]) => {
+    // Build query parameters conditionally
+    const sentimentQuery =
+      selectedSentiments.length > 0
+        ? `sentiments=${selectedSentiments
+            .map((sentiment) => sentiment.toLowerCase())
+            .join(",")}`
+        : "";
+    const typeQuery =
+      selectedTypes.length > 0 ? `types=${selectedTypes.join(",")}` : "";
+    let pageQuery = `page=${currentPage}`;
+
+    // Combine query parameters
+    const query = [sentimentQuery, typeQuery, pageQuery]
+      .filter((param) => param) // Remove empty parameters
+      .join("&"); // Join with '&'
+
+    console.log("QUERY", query);
+    console.log("filteredData", filteredData);
+
+    // Fetch data from the API with query parameters
+    const response = await fetch(
+      `${process.env.NEXT_PUBLIC_BASE_URL}/api?${query}`,
+      {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify({
+          data: initialData,
+        }),
+      }
     );
+
+    const { data, totalPages } = await response.json();
     // Update state with fetched data
-    setFilteredData(data.data);
-    setTotalPages(data.totalPages);
+    setFilteredData(data);
+    setTotalPages(totalPages);
   };
 
   useEffect(() => {
-    fetchData();
-    // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [selectedSentiments, selectedTypes, currentPage]);
+    fetchData(initialData);
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [selectedSentiments, selectedTypes, currentPage, initialData]);
 
   const handleSentimentChange = (sentiment: string) => {
     setSelectedSentiments((prev) =>
