@@ -5,7 +5,7 @@ import { Inter as FontSans } from "next/font/google";
 import "@/styles/globals.css";
 import Navbar from "@/components/navbar";
 import { ThemeProvider } from "@/components/theme-provider";
-import Topbar from "@/components/header";
+import Header from "@/components/header";
 
 export const metadata: Metadata = {
   title: "Create Next App",
@@ -26,7 +26,7 @@ export default function RootLayout({
     <html lang="en">
       <body
         className={cn(
-          "min-h-screen bg-background font-sans antialiased relative",
+          "min-h-screen bg-background font-sans antialiased",
           fontSans.variable
         )}
       >
@@ -37,7 +37,7 @@ export default function RootLayout({
           disableTransitionOnChange
         >
           <Navbar />
-          <Topbar />
+          <Header />
           {children}
         </ThemeProvider>
       </body>

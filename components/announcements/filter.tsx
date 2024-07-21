@@ -22,8 +22,8 @@ const Filter: FC<FilterProps> = ({
   onTypeChange,
 }) => {
   return (
-    <div className="w-[254px] h-[calc(100vh-88px)] flex flex-col dark:bg-neutral-800 border-r border-neutral-950 p-4">
-      <h3 className="text-xl font-semibold mb-4">Filter By</h3>
+    <div className="w-[254px] h-[calc(100vh-88px)] flex flex-col dark:bg-neutral-800 border-r border-neutral-300">
+      <h3 className="text-[14px] font-medium py-[23px] ml-[30px]">Filter By</h3>
       <SentimentsDropdown
         sentiments={sentiments}
         selectedSentiments={selectedSentiments}

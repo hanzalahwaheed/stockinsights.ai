@@ -8,4 +8,28 @@
   box-sizing: border-box;
 }
 
+body {
+  overflow-x: hidden;
+}
 
+
+/* width */
+/* ::-webkit-scrollbar {
+  width: 6px;
+} */
+
+/* Track */
+/* ::-webkit-scrollbar-track {
+  background: #f4f4f5;
+} */
+
+/* Handle */
+/* ::-webkit-scrollbar-thumb {
+  background: #d9d9d9;
+  border-radius: 5px;
+} */
+
+/* Handle on hover */
+/* ::-webkit-scrollbar-thumb:hover {
+  background: #f4f4f5;
+} */
