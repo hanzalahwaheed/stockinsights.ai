@@ -9,8 +9,8 @@
     - Sentiments
     - Announcement Types
 5. Animated Sidebar
-6. Dark Mode
-7. Responsive
+6. Dark Mode (in progress)
+7. Responsive (in progress)
 
 ## Libraries Used
 1. nextJS
