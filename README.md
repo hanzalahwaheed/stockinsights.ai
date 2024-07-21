@@ -9,7 +9,7 @@
     - Sentiments
     - Announcement Types
 5. Animated Sidebar
-6. Dark Mode (in progress)
+6. Dark Mode
 7. Responsive (in progress)
 
 ## Libraries Used
@@ -26,4 +26,4 @@
 ``` NEXT_PUBLIC_NASE_URL=http://localhost:3000 ```
 5. npm run dev
 
-Author: Hanzalah Waheed
+### Author: Hanzalah Waheed
