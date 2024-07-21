@@ -3,7 +3,7 @@ import Announcements from "@/components/announcements/announcements";
 import { types, sentimentTypes } from "@/types";
 
 const Home = async () => {
-  const response = await fetch("http://localhost:3000/api");
+  const response = await fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/api`);
   const { data, totalPages } = await response.json();
 
   return (

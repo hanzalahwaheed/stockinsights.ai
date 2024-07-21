@@ -2,7 +2,7 @@ import React from "react";
 
 const TableHeader = () => {
   return (
-    <div className="w-full min-h-[90px] bg-white dark:bg-neutral-950 flex items-center border-b border-[1px] border-neutral-200 dark:border-neutral-700 hover:bg-slate-100">
+    <div className="w-full min-h-[90px] bg-white dark:bg-neutral-950 flex items-center border-b-[1px] border-neutral-200 dark:border-neutral-700 hover:bg-slate-100">
       <div className="w-[190px]  py-[10px] pl-[60px] gap-[10px] flex items-center">
         <h3 className="font-medium text-[14px]">Company</h3>
       </div>

@@ -12,13 +12,11 @@ interface Props {
 const SideBarButtons = ({ imageSrc, content, className }: Props) => {
   return (
     <div
-      className={`${className} w-[216px] h-[45px] hover:bg-[#F0F0F0] flex items-center justify-start`}
+      className={`${className} w-[216px] h-[45px] hover:bg-neutral-200 dark:hover:bg-neutral-300 flex items-center justify-start rounded-md`}
     >
       <div className="pl-[10px] h-[20px] flex gap-[12px] items-center justify-center">
         <Image src={imageSrc} width={17} height={20} alt={content} />
-        <p className="text-neutral-500 font-semibold">
-          {content}
-        </p>
+        <p className="text-neutral-500 font-semibold">{content}</p>
       </div>
     </div>
   );

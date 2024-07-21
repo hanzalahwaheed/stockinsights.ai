@@ -35,7 +35,7 @@ const Navbar = () => {
 
   return (
     <nav
-      className={`absolute z-10 h-screen bg-neutral-100 transition-width duration-200 flex border-r border-default
+      className={`absolute z-10 h-screen bg-neutral-100 transition-width duration-200 flex border-r-[.5px] dark:border-neutral-700
          ${isOpen ? "w-[256px] justify-center" : "w-[65px] justify-start"} 
           dark:bg-neutral-900
          `}

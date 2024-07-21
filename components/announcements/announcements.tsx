@@ -44,7 +44,7 @@ const Announcements: React.FC<AnnouncementProps> = ({
       .join("&"); // Join with '&'
 
     // Fetch data from the API with query parameters
-    const response = await fetch(`http://localhost:3000/api?${query}`);
+    const response = await fetch(`${process.env.NEXT_PUBLIC_BASE_URL}/api?${query}`);
     const data = await response.json();
 
     // Update state with fetched data

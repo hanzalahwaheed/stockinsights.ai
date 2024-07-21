@@ -47,7 +47,7 @@ const Pagination: FC<PaginationProps> = ({
           onClick={() => onPageChange(page)}
           className={`px-4 py-2 mx-1 rounded-lg ${
             page === currentPage
-              ? "bg-neutral-300 text-neutral-700 border rounded-md border-[1px]"
+              ? "bg-neutral-300 text-neutral-700 rounded-md border-[1px]"
               : "bg-neutral-100 text-neutral-700 hover:bg-neutral-200"
           }`}
         >

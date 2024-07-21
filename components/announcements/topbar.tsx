@@ -3,7 +3,7 @@ import React from "react";
 
 const AnnouncementsTopbar = () => {
   return (
-    <div className="w-full min-h-[70px] bg-neutral-100 dark:bg-neutral-950 flex items-center justify-between border-b border-[1.5px] border-neutral-200 dark:border-neutral-700">
+    <div className="w-full min-h-[70px] bg-neutral-100 dark:bg-neutral-950 flex items-center justify-between border-b-[.5px] border-neutral-200 dark:border-neutral-700">
       <div className="flex">
         <h1 className="text-[16px] font-semibold text-neutral-700 ml-[60px]">
           Announcements Dashboard

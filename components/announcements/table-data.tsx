@@ -37,9 +37,9 @@ const TableData: React.FC<TableDataProps> = ({
   };
   const formattedDate = date.toLocaleDateString("en-Uk", options);
   return (
-    <div className="max-h-max w-full bg-white dark:bg-neutral-950 flex items-center border-b border-[.5px] border-neutral-200 dark:border-neutral-700 hover:bg-slate-100 font-medium text-[14px]">
+    <div className="max-h-max w-full bg-white dark:bg-neutral-950 flex items-center border-b-[.5px] border-neutral-200 dark:border-neutral-700 hover:bg-slate-100 font-medium text-[14px]">
       <div className="w-[190px] min-h-[80px] py-[10px] pl-[60px] gap-[10px] flex items-center">
-        {company_name && <p className="text-neutral-600">{company_name}</p>}
+        {company_name && <p className="text-neutral-600 dark:text-neutral-200">{company_name}</p>}
       </div>
 
       <div className="flex items-center w-[250px] min-h-[80px] py-[10px] pl-[40px] gap-[10px] ">
