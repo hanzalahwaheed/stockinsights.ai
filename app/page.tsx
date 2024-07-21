@@ -1,6 +1,6 @@
 import React from "react";
 import Announcements from "@/components/announcements/announcements";
-import { types, sentiments } from "@/types";
+import { types, sentimentTypes } from "@/types";
 
 const Home = async () => {
   const response = await fetch("http://localhost:3000/api");
@@ -9,7 +9,7 @@ const Home = async () => {
   return (
     <div className="absolute w-full left-[65px]">
       <Announcements
-        sentiments={sentiments}
+        sentiments={sentimentTypes}
         types={types}
         initialData={data}
         initialTotalPages={totalPages}

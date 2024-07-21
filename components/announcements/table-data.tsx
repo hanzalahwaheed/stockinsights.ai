@@ -13,6 +13,7 @@ interface TableDataProps {
   key?: string;
   source_url: string;
   sub_type: string;
+  date_and_time: string;
 }
 
 const TableData: React.FC<TableDataProps> = ({
@@ -22,7 +23,19 @@ const TableData: React.FC<TableDataProps> = ({
   sentiment,
   source_url,
   sub_type,
+  date_and_time,
 }) => {
+  // Convert date_and_time into the desired format
+  const date = new Date(date_and_time);
+  const options: Intl.DateTimeFormatOptions = {
+    day: "2-digit",
+    month: "short",
+    year: "numeric",
+    hour: "2-digit",
+    minute: "2-digit",
+    hour12: false,
+  };
+  const formattedDate = date.toLocaleDateString("en-Uk", options);  
   return (
     <div className="max-h-max w-full bg-white dark:bg-neutral-950 flex items-center border-b border-[.5px] border-neutral-200 dark:border-neutral-700 hover:bg-slate-100 font-medium text-[14px]">
       <div className="w-[190px] min-h-[80px] py-[10px] pl-[60px] gap-[10px] flex items-center">
@@ -52,8 +65,8 @@ const TableData: React.FC<TableDataProps> = ({
         />
       </div>
 
-      <div className="flex items-center justify-center w-[151px] min-h-[80px] py-[10px] pl-[20px] gap-[10px] mr-[60px]">
-        <Button variant={"outline"}>
+      <div className="flex flex-col items-center justify-center w-[151px] min-h-[80px] py-[10px] pl-[20px] gap-[10px] mr-[60px]">
+        <Button variant={"outline"} className="h-[32px]">
           <a
             href={source_url}
             target="_blank"
@@ -68,6 +81,7 @@ const TableData: React.FC<TableDataProps> = ({
             <p className="text-[12px]">Source</p>
           </a>
         </Button>
+        <p className="text-neutral-600 font-medium text-[10px]">{formattedDate}</p>
       </div>
     </div>
   );

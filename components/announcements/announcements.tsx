@@ -3,27 +3,11 @@
 import { useState, useEffect } from "react";
 import Filter from "./filter";
 import Pagination from "../pagination";
-import { announcementTypes } from "@/types";
 import AnnouncementsTopbar from "./topbar";
 import TableHeader from "./table-header";
 import TableData from "./table-data";
 
-interface DataItem {
-  _id: { oid: string };
-  attachment_name: string;
-  company_id: string;
-  company_name: string;
-  created_at: { date: string };
-  created_by: string;
-  published_time: { date: string };
-  sentiment: string;
-  source_url: string;
-  sub_type: string;
-  summary: string;
-  ticker: string;
-  type_id: string;
-  year: string;
-}
+import { announcementTypes, DataItem } from "@/types";
 
 interface AnnouncementProps {
   sentiments: string[];
@@ -101,7 +85,7 @@ const Announcements: React.FC<AnnouncementProps> = ({
       </div>
       <div className="h-[calc(100vh-88px)] ml-[254px]">
         {filteredData.length > 0 ? (
-          <div className="max-h-[800px] overflow-y-auto">
+          <div className="max-h-[calc(100%-50px)] overflow-y-auto">
             <AnnouncementsTopbar />
             <TableHeader />
             {filteredData.map((item) => (
@@ -113,6 +97,7 @@ const Announcements: React.FC<AnnouncementProps> = ({
                 sentiment={item.sentiment}
                 announcement_type={announcementTypes[item.type_id]}
                 sub_type={item.sub_type}
+                date_and_time={item.published_time.date}
               />
             ))}
           </div>
