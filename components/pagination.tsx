@@ -1,5 +1,6 @@
 "use client";
 
+import Image from "next/image";
 import { FC } from "react";
 
 interface PaginationProps {
@@ -13,24 +14,58 @@ const Pagination: FC<PaginationProps> = ({
   totalPages,
   onPageChange,
 }) => {
+  const getPageNumbers = () => {
+    const startPage = Math.max(1, currentPage - 1);
+    const endPage = Math.min(totalPages, startPage + 2);
+    const pages = [];
+    for (let i = startPage; i <= endPage; i++) {
+      pages.push(i);
+    }
+    return pages;
+  };
+
+  const pages = getPageNumbers();
+
   return (
-    <div className="flex justify-center">
+    <div className="flex justify-center items-center space-x-2">
       <button
         onClick={() => onPageChange(currentPage - 1)}
         disabled={currentPage === 1}
-        className="px-4 py-2 mx-1 bg-blue-500 text-white rounded-lg hover:bg-blue-600 disabled:bg-gray-400"
+        className="p-2 mx-1 bg-blue-500 text-white rounded-lg hover:bg-blue-600 disabled:bg-gray-400"
       >
-        Previous
+        <Image
+          src={"/announcements/dropdown-open.svg"}
+          width={10}
+          height={20}
+          alt="arrow-right"
+          className="rotate-[90deg]"
+        />
       </button>
-      <span className="px-4 py-2 text-lg">
-        Page {currentPage} of {totalPages}
-      </span>
+      {pages.map((page) => (
+        <button
+          key={page}
+          onClick={() => onPageChange(page)}
+          className={`px-4 py-2 mx-1 rounded-lg ${
+            page === currentPage
+              ? "bg-blue-700 text-white"
+              : "bg-blue-500 text-white hover:bg-blue-600"
+          }`}
+        >
+          {page}
+        </button>
+      ))}
       <button
         onClick={() => onPageChange(currentPage + 1)}
         disabled={currentPage === totalPages}
-        className="px-4 py-2 mx-1 bg-blue-500 text-white rounded-lg hover:bg-blue-600 disabled:bg-gray-400"
+        className="bg-neutral-100 text-white rounded-lg hover:bg-neutral-300 disabled:bg-gray-400"
       >
-        Next
+        <Image
+          src={"/announcements/dropdown-open.svg"}
+          width={10}
+          height={20}
+          alt="arrow-right"
+          className="rotate-[-90deg]"
+        />
       </button>
     </div>
   );

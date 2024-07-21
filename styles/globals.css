@@ -12,21 +12,19 @@ body {
   overflow-x: hidden;
 }
 
-
-/* ::-webkit-scrollbar {
+::-webkit-scrollbar {
   width: 6px;
-} */
+}
 
-/* ::-webkit-scrollbar-track {
+::-webkit-scrollbar-track {
   background: #f4f4f5;
-} */
+}
 
-/* ::-webkit-scrollbar-thumb {
+::-webkit-scrollbar-thumb {
   background: #d9d9d9;
   border-radius: 5px;
-} */
+}
 
-/*::-webkit-scrollbar-thumb:hover {
+::-webkit-scrollbar-thumb:hover {
   background: #f4f4f5;
-} 
-*/
+}
