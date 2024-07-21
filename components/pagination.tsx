@@ -1,6 +1,6 @@
-'use client';
+"use client";
 
-import { FC } from 'react';
+import { FC } from "react";
 
 interface PaginationProps {
   currentPage: number;
@@ -8,7 +8,11 @@ interface PaginationProps {
   onPageChange: (page: number) => void;
 }
 
-const PaginationComponent: FC<PaginationProps> = ({ currentPage, totalPages, onPageChange }) => {
+const Pagination: FC<PaginationProps> = ({
+  currentPage,
+  totalPages,
+  onPageChange,
+}) => {
   return (
     <div className="flex justify-center">
       <button
@@ -32,4 +36,4 @@ const PaginationComponent: FC<PaginationProps> = ({ currentPage, totalPages, onP
   );
 };
 
-export default PaginationComponent;
+export default Pagination;

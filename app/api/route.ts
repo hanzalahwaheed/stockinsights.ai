@@ -49,7 +49,7 @@ export async function GET(req: NextRequest) {
       startIndex + itemsPerPage
     );
 
-    console.log(paginatedData);
+    // console.log(paginatedData);
     
     // Return the filtered and paginated data as a response
     return NextResponse.json({ data: paginatedData, totalPages });

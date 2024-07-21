@@ -2,7 +2,7 @@
 
 import { useState, useEffect } from "react";
 import Filter from "./filter";
-import PaginationComponent from "../pagination";
+import Pagination from "../pagination";
 import { announcementTypes } from "@/types";
 import AnnouncementsTopbar from "./topbar";
 import TableHeader from "./table-header";
@@ -70,7 +70,7 @@ const Announcements: React.FC<AnnouncementProps> = ({
 
   useEffect(() => {
     fetchData();
-  // eslint-disable-next-line react-hooks/exhaustive-deps
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [selectedSentiments, selectedTypes, currentPage]);
 
   const handleSentimentChange = (sentiment: string) => {
@@ -88,45 +88,44 @@ const Announcements: React.FC<AnnouncementProps> = ({
   };
 
   return (
-    <>
-      <div className="">
-        <div className="absolute">
-          <Filter
-            sentiments={sentiments}
-            selectedSentiments={selectedSentiments}
-            onSentimentChange={handleSentimentChange}
-            types={types}
-            selectedTypes={selectedTypes}
-            onTypeChange={handleTypeChange}
-          />
-        </div>
-        <div className="ml-[254px] h-[800px] overflow-auto">
-          <AnnouncementsTopbar />
-          <TableHeader />
-          {filteredData.length > 0 ? (
-            <>
-              {filteredData.map((item) => (
-                <TableData
-                  key={item._id.oid}
-                  company_name={item.company_name}
-                  summary={item.summary}
-                  source_url={item.source_url}
-                  sentiment={item.sentiment}
-                  announcement_type={announcementTypes[item.type_id]}
-                />
-              ))}
-            </>
-          ) : (
-            <p className="text-center text-gray-500">No results found</p>
-          )}
-          <PaginationComponent
-            currentPage={currentPage}
-            totalPages={totalPages}
-            onPageChange={setCurrentPage}
-          />
-        </div>
+    <div className="w-full">
+      <div className="absolute">
+        <Filter
+          sentiments={sentiments}
+          selectedSentiments={selectedSentiments}
+          onSentimentChange={handleSentimentChange}
+          types={types}
+          selectedTypes={selectedTypes}
+          onTypeChange={handleTypeChange}
+        />
       </div>
-    </>
+      <div className="h-[calc(100vh-88px)] ml-[254px]">
+        {filteredData.length > 0 ? (
+          <div className="max-h-[800px] overflow-y-auto">
+            <AnnouncementsTopbar />
+            <TableHeader />
+            {filteredData.map((item) => (
+              <TableData
+                key={item._id.oid}
+                company_name={item.company_name}
+                summary={item.summary}
+                source_url={item.source_url}
+                sentiment={item.sentiment}
+                announcement_type={announcementTypes[item.type_id]}
+                sub_type={item.sub_type}
+              />
+            ))}
+          </div>
+        ) : (
+          <p className="text-center text-gray-500">No results found</p>
+        )}
+        <Pagination
+          currentPage={currentPage}
+          totalPages={totalPages}
+          onPageChange={setCurrentPage}
+        />
+      </div>
+    </div>
   );
 };
 

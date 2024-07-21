@@ -12,6 +12,7 @@ interface TableDataProps {
   sentiment: string;
   key?: string;
   source_url: string;
+  sub_type: string;
 }
 
 const TableData: React.FC<TableDataProps> = ({
@@ -20,6 +21,7 @@ const TableData: React.FC<TableDataProps> = ({
   summary,
   sentiment,
   source_url,
+  sub_type,
 }) => {
   return (
     <div className="max-h-max w-full bg-white dark:bg-neutral-950 flex items-center border-b border-[.5px] border-neutral-200 dark:border-neutral-700 hover:bg-slate-100 font-medium text-[14px]">
@@ -35,7 +37,7 @@ const TableData: React.FC<TableDataProps> = ({
 
       {/* main div */}
       <div className="flex-1 p-[10px] px-[20px] gap-[10px]">
-        <p className="text-neutral-700 font-semibold py-1">Financial Results</p>
+        <p className="text-neutral-700 font-semibold py-1">{sub_type}</p>
         <p className="text-neutral-400 leading-relaxed font-normal py-1">
           {summary}
         </p>

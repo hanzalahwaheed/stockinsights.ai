@@ -18,7 +18,7 @@ const AnnouncementsTopbar = () => {
           <h2 className="">AI-Powered</h2>
         </div>
       </div>
-      <div className="flex gap-[10px] mr-[60px]">
+      <div className="flex gap-[10px] mr-[80px]">
         <Image
           src={"/announcements/updates.svg"}
           width={14}
