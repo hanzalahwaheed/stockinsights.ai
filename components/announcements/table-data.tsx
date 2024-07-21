@@ -3,6 +3,7 @@
 import React from "react";
 import { Button } from "../ui/button";
 import Image from "next/image";
+import { refactorDateAndTime } from "@/lib/utils";
 
 interface TableDataProps {
   company_name: string;
@@ -24,21 +25,15 @@ const TableData: React.FC<TableDataProps> = ({
   sub_type,
   date_and_time,
 }) => {
-  // Convert date_and_time into the desired format
-  const date = new Date(date_and_time);
-  const options: Intl.DateTimeFormatOptions = {
-    day: "2-digit",
-    month: "short",
-    year: "numeric",
-    hour: "2-digit",
-    minute: "2-digit",
-    hour12: false,
-  };
-  const formattedDate = date.toLocaleDateString("en-Uk", options);
+  const formattedDate = refactorDateAndTime(date_and_time);
   return (
     <div className="max-h-max w-full bg-white dark:bg-neutral-900 flex items-center border-b-[.5px] border-neutral-200 dark:border-neutral-700 hover:bg-slate-100 font-medium text-[14px]">
       <div className="w-[190px] min-h-[80px] py-[10px] pl-[60px] gap-[10px] flex items-center">
-        {company_name && <p className="text-neutral-600 dark:text-neutral-200">{company_name}</p>}
+        {company_name && (
+          <p className="text-neutral-600 dark:text-neutral-200">
+            {company_name}
+          </p>
+        )}
       </div>
 
       <div className="flex items-center w-[250px] min-h-[80px] py-[10px] pl-[40px] gap-[10px] ">
@@ -51,7 +46,9 @@ const TableData: React.FC<TableDataProps> = ({
 
       <div className="flex-1 p-[10px] px-[20px] gap-[10px]">
         {sub_type && (
-          <p className="text-neutral-700 font-semibold py-1 dark:text-neutral-200">{sub_type}</p>
+          <p className="text-neutral-700 font-semibold py-1 dark:text-neutral-200">
+            {sub_type}
+          </p>
         )}
         {summary && (
           <p className="text-neutral-400 leading-relaxed font-normal py-1">
@@ -72,7 +69,10 @@ const TableData: React.FC<TableDataProps> = ({
       </div>
 
       <div className="flex flex-col items-center justify-center w-[151px] min-h-[80px] py-[10px] pl-[20px] gap-[10px] mr-[60px]">
-        <Button variant={"outline"} className="h-[32px] dark:border-neutral-600">
+        <Button
+          variant={"outline"}
+          className="h-[32px] dark:border-neutral-600"
+        >
           <a
             href={source_url}
             target="_blank"
