@@ -13,8 +13,9 @@
 7. Responsive (in progress)
 
 ## UI/UX Changes
-1. Header Dark Mode Toggle Button 
-2. Fixed Page Buttons 
+1. Collapsible Navbar
+2. Header Dark Mode Toggle Button 
+3. Fixed Page Buttons 
 
 ## Libraries Used
 1. nextJS
