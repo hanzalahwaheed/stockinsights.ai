@@ -31,4 +31,7 @@
 ``` NEXT_PUBLIC_NASE_URL=http://localhost:3000 ```
 5. npm run dev
 
+## References
+1. [Load a Static File into NextJS](https://vercel.com/guides/loading-static-file-nextjs-api-route)
+
 ### Author: Hanzalah Waheed
