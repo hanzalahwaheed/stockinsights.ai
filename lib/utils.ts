@@ -18,3 +18,25 @@ export function refactorDateAndTime(date_and_time: string) {
   };
   return date.toLocaleDateString("en-Uk", options);
 }
+
+// Generate query string based on selected filters and current page
+export function generateQuery(
+  selectedSentiments: string[],
+  selectedTypes: string[],
+  currentPage: number
+) {
+  const sentimentQuery =
+    selectedSentiments.length > 0
+      ? `sentiments=${selectedSentiments
+          .map((sentiment) => sentiment.toLowerCase())
+          .join(",")}`
+      : "";
+  const typeQuery =
+    selectedTypes.length > 0 ? `types=${selectedTypes.join(",")}` : "";
+  const pageQuery = `page=${currentPage}`;
+
+  // Combine query parameters
+  return [sentimentQuery, typeQuery, pageQuery]
+    .filter((param) => param) // Remove empty parameters
+    .join("&"); // Join with '&'
+}

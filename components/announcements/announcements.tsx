@@ -7,6 +7,7 @@ import AnnouncementsTopbar from "./topbar";
 import TableHeader from "./table-header";
 import TableData from "./table-data";
 import { announcementTypes, DataItem } from "@/types";
+import { generateQuery } from "@/lib/utils";
 
 interface AnnouncementProps {
   sentiments: string[];
@@ -28,21 +29,7 @@ const Announcements: React.FC<AnnouncementProps> = ({
   const [totalPages, setTotalPages] = useState<number>(initialTotalPages);
 
   const fetchData = async (initialData: DataItem[]) => {
-    // Build query parameters conditionally
-    const sentimentQuery =
-      selectedSentiments.length > 0
-        ? `sentiments=${selectedSentiments
-            .map((sentiment) => sentiment.toLowerCase())
-            .join(",")}`
-        : "";
-    const typeQuery =
-      selectedTypes.length > 0 ? `types=${selectedTypes.join(",")}` : "";
-    let pageQuery = `page=${currentPage}`;
-
-    // Combine query parameters
-    const query = [sentimentQuery, typeQuery, pageQuery]
-      .filter((param) => param) // Remove empty parameters
-      .join("&"); // Join with '&'
+    const query = generateQuery(selectedSentiments, selectedTypes, currentPage);
 
     // Fetch data from the API with query parameters
     const response = await fetch(
@@ -59,7 +46,6 @@ const Announcements: React.FC<AnnouncementProps> = ({
     );
 
     const { data, totalPages } = await response.json();
-    // Update state with fetched data
     setFilteredData(data);
     setTotalPages(totalPages);
   };
