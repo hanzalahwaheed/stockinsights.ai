@@ -6,19 +6,15 @@ import Pagination from "../pagination";
 import AnnouncementsTopbar from "./topbar";
 import TableHeader from "./table-header";
 import TableData from "./table-data";
-import { announcementTypes, DataItem } from "@/types";
+import { announcementTypes, DataItem, sentimentTypes, types } from "@/types";
 import { generateQuery } from "@/lib/utils";
 
 interface AnnouncementProps {
-  sentiments: string[];
-  types: string[];
   initialData: DataItem[];
   initialTotalPages: number;
 }
 
 const Announcements: React.FC<AnnouncementProps> = ({
-  sentiments,
-  types,
   initialData,
   initialTotalPages,
 }) => {
@@ -73,7 +69,7 @@ const Announcements: React.FC<AnnouncementProps> = ({
     <div className="w-full">
       <div className="absolute">
         <Filter
-          sentiments={sentiments}
+          sentiments={sentimentTypes}
           selectedSentiments={selectedSentiments}
           onSentimentChange={handleSentimentChange}
           types={types}

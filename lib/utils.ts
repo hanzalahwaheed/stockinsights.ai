@@ -37,6 +37,10 @@ export function generateQuery(
 
   // Combine query parameters
   return [sentimentQuery, typeQuery, pageQuery]
-    .filter((param) => param) // Remove empty parameters
-    .join("&"); // Join with '&'
+    .filter((param) => param)
+    .join("&");
+}
+
+export function calculateTotalPages(itemsPerPage: number, totalItems: number) {
+  return Math.ceil(totalItems / itemsPerPage);
 }
