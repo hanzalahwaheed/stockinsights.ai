@@ -21,7 +21,11 @@ const SentimentsDropdown: FC<SentimentsDropdownProps> = ({
 
   return (
     <div className="">
-      <DropdownHeading isOpen={isDropdownOpen} toggleDropdown={toggleDropdown} text="Sentiment" />
+      <DropdownHeading
+        isOpen={isDropdownOpen}
+        toggleDropdown={toggleDropdown}
+        text="Sentiment"
+      />
       {isDropdownOpen && (
         <div>
           {sentiments.map((sentiment) => (

@@ -1,6 +1,5 @@
 import React from "react";
 import Announcements from "@/components/announcements/announcements";
-import { types, sentimentTypes } from "@/types";
 import { promises as fs } from "fs";
 import { calculateTotalPages } from "@/lib/utils";
 
