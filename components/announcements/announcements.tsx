@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useEffect } from "react";
+import { useState, useEffect, useCallback } from "react";
 import Filter from "./filter";
 import Pagination from "../pagination";
 import AnnouncementsTopbar from "./topbar";
@@ -48,22 +48,21 @@ const Announcements: React.FC<AnnouncementProps> = ({
 
   useEffect(() => {
     fetchData(initialData);
-  // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [selectedSentiments, selectedTypes, currentPage, initialData]);
 
-  const handleSentimentChange = (sentiment: string) => {
+  const handleSentimentChange = useCallback((sentiment: string) => {
     setSelectedSentiments((prev) =>
       prev.includes(sentiment)
         ? prev.filter((s) => s !== sentiment)
         : [...prev, sentiment]
-    );    
-  };
+    );
+  }, []);
 
-  const handleTypeChange = (type: string) => {
+  const handleTypeChange = useCallback((type: string) => {
     setSelectedTypes((prev) =>
       prev.includes(type) ? prev.filter((t) => t !== type) : [...prev, type]
     );
-  };
+  }, []);
 
   return (
     <div className="w-full">
