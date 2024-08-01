@@ -32,6 +32,8 @@ This endpoint fetches the filtered and paginated announcements based on the quer
 - `types`: A comma-separated list of announcement types to filter by.
 - `page`: The page number for pagination.
 
+### FlowChart
+![flowchart](image.png)
 
 ### Local setup
 1. git clone `<repo_url>`
